@@ -12,6 +12,7 @@ A curated list of tools and frameworks for orchestrating AI coding agents.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Best way to get AI coding agents to solve hard problems in complex codebases.
 - [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.
 - [ralph-tui](https://github.com/subsy/ralph-tui) - Orchestrate AI coding agents to work through task lists autonomously.
+- [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - A hat-based orchestration framework that keeps Ralph in a loop until the task is done.
 - [ralphy](https://github.com/michaelshimeles/ralphy) - Runs AI agents on tasks until done.
 - [superset](https://github.com/superset-sh/superset) - A terminal built for coding agents.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents in parallel.

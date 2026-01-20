@@ -4,6 +4,7 @@ A curated list of tools and frameworks for orchestrating AI coding agents.
 
 ## Projects
 
+- [1code](https://github.com/21st-dev/1code) - UI for Claude Code with local and remote agent execution.
 - [amux](https://github.com/andyrewlee/amux) - Easily run parallel coding agents.
 - [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.
 - [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system for Claude Code with persistent work tracking.

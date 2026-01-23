@@ -8,6 +8,7 @@ A curated list of tools and frameworks for orchestrating AI coding agents.
 - [amux](https://github.com/andyrewlee/amux) - Easily run parallel coding agents.
 - [automaker](https://github.com/AutoMaker-Org/automaker) - Autonomous AI development studio.
 - [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.
+- [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Orchestrate multiple Codex agents across local workspaces.
 - [crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees.
 - [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system for Claude Code with persistent work tracking.

@@ -21,6 +21,7 @@ A curated list of tools and frameworks for orchestrating AI coding agents.
 - [ralphy](https://github.com/michaelshimeles/ralphy) - Runs AI agents on tasks until done.
 - [subtask](https://github.com/zippoxer/subtask) - Claude Skill to do your tasks with subagents in Git worktrees.
 - [superset](https://github.com/superset-sh/superset) - A terminal built for coding agents.
+- [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents in parallel.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.
 - [wreckit](https://github.com/mikehostetler/wreckit) - Run Ralph Wiggum Loop over your roadmap.

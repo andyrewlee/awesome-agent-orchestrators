@@ -14,6 +14,7 @@ A curated list of tools and frameworks for orchestrating AI coding agents.
 - [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system for Claude Code with persistent work tracking.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Best way to get AI coding agents to solve hard problems in complex codebases.
 - [jean](https://github.com/coollabsio/jean) - AI assistant that helps manage multiple projects, worktrees, and sessions with Claude CLI.
+- [lalph](https://github.com/tim-smart/lalph) - A LLM agent orchestrator driven by your chosen source of issues.
 - [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.
 - [ralph-tui](https://github.com/subsy/ralph-tui) - Orchestrate AI coding agents to work through task lists autonomously.
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - A hat-based orchestration framework that keeps Ralph in a loop until the task is done.

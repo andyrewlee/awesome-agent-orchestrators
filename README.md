@@ -38,9 +38,10 @@ Systems for coordinating multiple specialized agents working together.
 - [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system with persistent work tracking.
 - [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.
 
-## Messaging Bridges
+## Personal Assistants
 
-Connect coding agents to messaging platforms.
+AI assistants that bridge to messaging platforms and other interfaces.
 
+- [leon](https://github.com/leon-ai/leon) - Open-source personal assistant with voice and text interfaces.
 - [moltbot](https://github.com/moltbot/moltbot) - Personal AI assistant bridging WhatsApp, Telegram, Slack, Discord to Claude.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.

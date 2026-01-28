@@ -42,4 +42,5 @@ Systems for coordinating multiple specialized agents working together.
 
 Connect coding agents to messaging platforms.
 
+- [moltbot](https://github.com/moltbot/moltbot) - Personal AI assistant bridging WhatsApp, Telegram, Slack, Discord to Claude.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.

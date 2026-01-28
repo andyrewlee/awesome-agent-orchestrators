@@ -10,6 +10,7 @@ A curated list of tools and frameworks for orchestrating AI coding agents.
 - [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Orchestrate multiple Codex agents across local workspaces.
+- [cmux](https://github.com/manaflow-ai/cmux) - Open-source platform for running multiple coding agents in parallel across isolated workspaces.
 - [crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees.
 - [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system for Claude Code with persistent work tracking.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Best way to get AI coding agents to solve hard problems in complex codebases.

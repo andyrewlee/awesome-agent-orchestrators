@@ -7,6 +7,7 @@ A curated list of tools and frameworks for orchestrating AI coding agents.
 Tools for running multiple coding agents simultaneously on different tasks.
 
 - [1code](https://github.com/21st-dev/1code) - UI for Claude Code with local and remote agent execution.
+- [aizen](https://github.com/vivy-company/aizen) - macOS workspace for managing git worktrees with integrated agent sessions.
 - [amux](https://github.com/andyrewlee/amux) - Run parallel coding agents with git worktree isolation.
 - [automaker](https://github.com/AutoMaker-Org/automaker) - Autonomous AI development studio.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents in background.

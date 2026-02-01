@@ -15,6 +15,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [cmux](https://github.com/manaflow-ai/cmux) - Open-source platform for running multiple coding agents in parallel.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Orchestrate multiple Codex agents across local workspaces.
 - [crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code sessions in parallel git worktrees.
+- [emdash](https://github.com/generalaction/emdash) - Run multiple coding agents in parallel.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Get AI coding agents to solve hard problems in complex codebases.
 - [jat](https://github.com/joewinke/jat) - The World's First Agentic IDE.
 - [jean](https://github.com/coollabsio/jean) - Manage multiple projects, worktrees, and sessions with Claude CLI.

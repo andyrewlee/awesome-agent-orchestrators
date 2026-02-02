@@ -48,5 +48,5 @@ AI assistants that bridge to messaging platforms and other interfaces.
 
 - [assistant](https://github.com/kcosr/assistant) - Panel-based personal assistant with a plugin architecture for productivity workflows.
 - [leon](https://github.com/leon-ai/leon) - Open-source personal assistant with voice and text interfaces.
-- [moltbot](https://github.com/moltbot/moltbot) - Personal AI assistant bridging WhatsApp, Telegram, Slack, Discord to Claude.
+- [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.

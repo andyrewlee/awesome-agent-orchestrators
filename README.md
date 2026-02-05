@@ -9,7 +9,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [1code](https://github.com/21st-dev/1code) - UI for Claude Code with local and remote agent execution.
 - [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - Dashboard for orchestrating Claude, Aider, and Cursor agents across machines.
 - [aizen](https://github.com/vivy-company/aizen) - macOS workspace for managing git worktrees with integrated agent sessions.
-- [amux](https://github.com/andyrewlee/amux) - Run parallel coding agents with git worktree isolation.
+- [amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents.
 - [automaker](https://github.com/AutoMaker-Org/automaker) - Autonomous AI development studio.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents in background.
 - [cmux](https://github.com/manaflow-ai/cmux) - Open-source platform for running multiple coding agents in parallel.

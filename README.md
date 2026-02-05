@@ -20,6 +20,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [jat](https://github.com/joewinke/jat) - The World's First Agentic IDE.
 - [jean](https://github.com/coollabsio/jean) - Manage multiple projects, worktrees, and sessions with Claude CLI.
 - [lalph](https://github.com/tim-smart/lalph) - LLM agent orchestrator driven by your chosen source of issues.
+- [mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development.
 - [subtask](https://github.com/zippoxer/subtask) - Claude Skill to do tasks with subagents in Git worktrees.
 - [superset](https://github.com/superset-sh/superset) - A terminal built for coding agents.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.

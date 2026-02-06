@@ -22,6 +22,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [lalph](https://github.com/tim-smart/lalph) - LLM agent orchestrator driven by your chosen source of issues.
 - [mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development.
 - [subtask](https://github.com/zippoxer/subtask) - Claude Skill to do tasks with subagents in Git worktrees.
+- [supacode](https://github.com/supabitapp/supacode) - Native macOS coding agent orchestrator.
 - [superset](https://github.com/superset-sh/superset) - A terminal built for coding agents.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.

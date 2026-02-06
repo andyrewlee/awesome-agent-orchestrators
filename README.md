@@ -52,5 +52,6 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [leon](https://github.com/leon-ai/leon) - Open-source personal assistant with voice and text interfaces.
 - [lettabot](https://github.com/letta-ai/lettabot) - Your personal AI assistant that remembers everything.
 - [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight personal AI assistant.
+- [nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative to OpenClaw that runs in Apple containers for security.
 - [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.

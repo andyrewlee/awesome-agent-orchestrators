@@ -21,6 +21,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [jean](https://github.com/coollabsio/jean) - Manage multiple projects, worktrees, and sessions with Claude CLI.
 - [lalph](https://github.com/tim-smart/lalph) - LLM agent orchestrator driven by your chosen source of issues.
 - [mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development.
+- [openkanban](https://github.com/techdufus/openkanban) - TUI kanban board for orchestrating AI coding agents.
 - [subtask](https://github.com/zippoxer/subtask) - Claude Skill to do tasks with subagents in Git worktrees.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS coding agent orchestrator.
 - [superset](https://github.com/superset-sh/superset) - A terminal built for coding agents.

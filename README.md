@@ -28,23 +28,6 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.
 
-## Autonomous Loop Runners
-
-Projects implementing the "keep running until done" pattern.
-
-- [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Hat-based orchestration that keeps agents in a loop until done.
-- [ralph-tui](https://github.com/subsy/ralph-tui) - Orchestrate AI coding agents to work through task lists autonomously.
-- [ralphy](https://github.com/michaelshimeles/ralphy) - Runs AI agents on tasks until done.
-- [wreckit](https://github.com/mikehostetler/wreckit) - Run Ralph Wiggum Loop over your roadmap.
-
-## Multi-Agent Swarms
-
-Systems for coordinating multiple specialized agents working together.
-
-- [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.
-- [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system with persistent work tracking.
-- [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.
-
 ## Personal Assistants
 
 AI assistants that bridge to messaging platforms and other interfaces.
@@ -58,3 +41,20 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative to OpenClaw that runs in Apple containers for security.
 - [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
+
+## Multi-Agent Swarms
+
+Systems for coordinating multiple specialized agents working together.
+
+- [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.
+- [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system with persistent work tracking.
+- [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.
+
+## Autonomous Loop Runners
+
+Projects implementing the "keep running until done" pattern.
+
+- [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Hat-based orchestration that keeps agents in a loop until done.
+- [ralph-tui](https://github.com/subsy/ralph-tui) - Orchestrate AI coding agents to work through task lists autonomously.
+- [ralphy](https://github.com/michaelshimeles/ralphy) - Runs AI agents on tasks until done.
+- [wreckit](https://github.com/mikehostetler/wreckit) - Run Ralph Wiggum Loop over your roadmap.

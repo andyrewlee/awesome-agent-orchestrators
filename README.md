@@ -34,6 +34,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 
 - [assistant](https://github.com/kcosr/assistant) - Panel-based personal assistant with a plugin architecture for productivity workflows.
 - [babyagi3](https://github.com/yoheinakajima/babyagi3) - A minimal AI agent you configure once, then run through natural language.
+- [ironclaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired implementation in Rust focused on privacy and security.
 - [lemon](https://github.com/z80dev/lemon) - Local-first assistant and coding agent system.
 - [leon](https://github.com/leon-ai/leon) - Open-source personal assistant with voice and text interfaces.
 - [lettabot](https://github.com/letta-ai/lettabot) - Your personal AI assistant that remembers everything.

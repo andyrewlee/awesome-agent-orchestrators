@@ -41,6 +41,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight personal AI assistant.
 - [nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative to OpenClaw that runs in Apple containers for security.
 - [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant.
+- [picoclaw](https://github.com/sipeed/picoclaw) - Ultra-efficient AI assistant.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
 
 ## Multi-Agent Swarms

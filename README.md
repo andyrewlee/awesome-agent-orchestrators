@@ -50,6 +50,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 
 Systems for coordinating multiple specialized agents working together.
 
+- [antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.
 - [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.
 - [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system with persistent work tracking.
 - [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.

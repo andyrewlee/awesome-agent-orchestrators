@@ -46,6 +46,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [picoclaw](https://github.com/sipeed/picoclaw) - Ultra-efficient AI assistant.
 - [rho](https://github.com/mikeyobrien/rho) - An AI agent that stays running, remembers across sessions, and checks in on its own.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
+- [zeroclaw](https://github.com/theonlyhennygod/zeroclaw) - The fastest, smallest, fully autonomous AI assistant.
 
 ## Multi-Agent Swarms
 

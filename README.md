@@ -57,6 +57,7 @@ Systems for coordinating multiple specialized agents working together.
 - [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.
 - [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system with persistent work tracking.
 - [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.
+- [opengoat](https://github.com/marian2js/opengoat) - Build AI autonomous organizations of OpenClaw agents.
 
 ## Autonomous Loop Runners
 

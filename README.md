@@ -45,6 +45,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant.
 - [picoclaw](https://github.com/sipeed/picoclaw) - Ultra-efficient AI assistant.
 - [rho](https://github.com/mikeyobrien/rho) - An AI agent that stays running, remembers across sessions, and checks in on its own.
+- [rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
 - [zeroclaw](https://github.com/theonlyhennygod/zeroclaw) - The fastest, smallest, fully autonomous AI assistant.
 

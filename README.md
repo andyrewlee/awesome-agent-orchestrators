@@ -43,6 +43,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [lettabot](https://github.com/letta-ai/lettabot) - Your personal AI assistant that remembers everything.
 - [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight personal AI assistant.
 - [nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative to OpenClaw that runs in Apple containers for security.
+- [nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure.
 - [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant.
 - [picoclaw](https://github.com/sipeed/picoclaw) - Ultra-efficient AI assistant.
 - [rho](https://github.com/mikeyobrien/rho) - An AI agent that stays running, remembers across sessions, and checks in on its own.

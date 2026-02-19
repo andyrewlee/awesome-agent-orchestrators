@@ -41,6 +41,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [ironclaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired implementation in Rust focused on privacy and security.
 - [lemon](https://github.com/z80dev/lemon) - Local-first assistant and coding agent system.
 - [leon](https://github.com/leon-ai/leon) - Open-source personal assistant with voice and text interfaces.
+- [lobsterai](https://github.com/netease-youdao/lobsterai) - Your 24/7 all-scenario AI agent that gets work done for you.
 - [lettabot](https://github.com/letta-ai/lettabot) - Your personal AI assistant that remembers everything.
 - [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight personal AI assistant.
 - [nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative to OpenClaw that runs in Apple containers for security.

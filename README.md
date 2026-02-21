@@ -51,6 +51,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [rho](https://github.com/mikeyobrien/rho) - An AI agent that stays running, remembers across sessions, and checks in on its own.
 - [rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
+- [zclaw](https://github.com/tnm/zclaw) - The smallest possible AI personal assistant for ESP32.
 - [zeroclaw](https://github.com/theonlyhennygod/zeroclaw) - The fastest, smallest, fully autonomous AI assistant.
 
 ## Multi-Agent Swarms

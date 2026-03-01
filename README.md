@@ -66,6 +66,7 @@ Systems for coordinating multiple specialized agents working together.
 - [clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents.
 - [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system with persistent work tracking.
 - [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.
+- [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System.
 - [opengoat](https://github.com/marian2js/opengoat) - Build AI autonomous organizations of OpenClaw agents.
 
 ## Autonomous Loop Runners

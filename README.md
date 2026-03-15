@@ -84,6 +84,9 @@ Systems for coordinating multiple specialized agents working together.
 - [opengoat](https://github.com/marian2js/opengoat) - Build AI autonomous organizations of OpenClaw agents.
 - [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
 
+- [gnap](https://github.com/farol-team/gnap) - Git-Native Agent Protocol: coordinate multiple agents via a shared git repo acting as a persistent task board (todo/doing/done), no orchestrator process required.
+- [swarm-protocol](https://github.com/phuryn/swarm-protocol) - Headless coordination layer exposed as MCP server: claim work, detect file conflicts, heartbeat, and hand off tasks across agent sessions.
+
 ## Autonomous Loop Runners
 
 Projects implementing the "keep running until done" pattern.

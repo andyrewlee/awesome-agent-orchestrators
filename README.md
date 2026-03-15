@@ -26,7 +26,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [emdash](https://github.com/generalaction/emdash) - Run multiple coding agents in parallel.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Get AI coding agents to solve hard problems in complex codebases.
 - [jat](https://github.com/joewinke/jat) - The World's First Agentic IDE.
-- [jean](https://github.com/coollabsio/jean) - Manage multiple projects, worktrees, and sessions with Claude CLI.
+- [jean](https://github.com/coollabsio/jean) - Desktop & web app for orchestrating coding agents (Claude, Codex, OpenCode) across projects and git worktrees.
 - [lalph](https://github.com/tim-smart/lalph) - LLM agent orchestrator driven by your chosen source of issues.
 - [mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development.
 - [openkanban](https://github.com/techdufus/openkanban) - TUI kanban board for orchestrating AI coding agents.

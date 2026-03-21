@@ -91,6 +91,7 @@ Systems for coordinating multiple specialized agents working together.
 - [opengoat](https://github.com/marian2js/opengoat) - Build AI autonomous organizations of OpenClaw agents.
 - [ORCH](https://github.com/oxgeneral/ORCH) - CLI runtime for managing Claude Code, Codex, and Cursor as typed agent teams with state machine, goals, and TUI.
 - [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
+- [skillfold](https://github.com/byronxlg/skillfold) - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into agent skills for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf.
 
 ## Autonomous Loop Runners
 

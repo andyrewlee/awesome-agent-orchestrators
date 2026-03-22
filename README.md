@@ -36,6 +36,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS coding agent orchestrator.
 - [superset](https://github.com/superset-sh/superset) - A terminal built for coding agents.
 - [symphony](https://github.com/openai/symphony) - Turns project work into isolated, autonomous implementation runs.
+- [tutti](https://github.com/nutthouse/tutti) - Multi-agent orchestration CLI with config-driven workflows, git worktree isolation, and typed artifact flow between agents.
 - [t3code](https://github.com/pingdotgg/t3code) - Minimal web GUI for coding agents.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.

@@ -15,6 +15,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding.
 - [ariana](https://github.com/ariana-dot-dev/ariana) - The IDE of the future.
 - [automaker](https://github.com/AutoMaker-Org/automaker) - Autonomous AI development studio.
+- [bernstein](https://github.com/chernistry/bernstein) - Deterministic orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits. Zero LLM tokens on coordination.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents in background.
 - [claude_code_bridge](https://github.com/bfly123/claude_code_bridge) - Real-time multi-AI collaboration.
 - [collaborator](https://github.com/collaborator-ai/collab-public) - A place to create with agents.

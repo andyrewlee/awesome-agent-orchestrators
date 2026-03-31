@@ -62,6 +62,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [lemon](https://github.com/z80dev/lemon) - Local-first assistant and coding agent system.
 - [leon](https://github.com/leon-ai/leon) - Open-source personal assistant with voice and text interfaces.
 - [lettabot](https://github.com/letta-ai/lettabot) - Your personal AI assistant that remembers everything.
+- [LionClaw](https://github.com/moshthepitt/lionclaw) - Secure-first local AI assistant with durable sessions and installable skills.
 - [lobsterai](https://github.com/netease-youdao/lobsterai) - Your 24/7 all-scenario AI agent that gets work done for you.
 - [mercury](https://github.com/Michaelliv/mercury) - Personal AI assistant that lives where you chat.
 - [MetaClaw](https://github.com/aiming-lab/MetaClaw) - Just talk to your agent — it learns and evolves.

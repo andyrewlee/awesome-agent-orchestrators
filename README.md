@@ -2,6 +2,7 @@
 
 A curated list of tools and frameworks for orchestrating AI coding agents.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested agent system prompts for Claude Code multi-agent orchestration with task registry, heartbeat monitoring, and quality gates. MIT licensed.
 ## Parallel Agent Runners
 
 Tools for running multiple coding agents simultaneously on different tasks.

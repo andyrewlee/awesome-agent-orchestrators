@@ -116,3 +116,10 @@ Projects implementing the "keep running until done" pattern.
 - [ralphy](https://github.com/michaelshimeles/ralphy) - Runs AI agents on tasks until done.
 - [toryo](https://github.com/JesseRWeigel/toryo) - Intelligent agent orchestrator with trust-based delegation, quality ratcheting (git commit/revert), and Ralph Loop retries. Chains Claude Code, Aider, Gemini CLI, Ollama.
 - [wreckit](https://github.com/mikehostetler/wreckit) - Run Ralph Wiggum Loop over your roadmap.
+
+## Agent-Native CLIs
+
+CLI tools with JSON output designed for AI agent consumption.
+
+- [overloop-cli](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+- [signals-cli](https://github.com/sortlist/signals-cli) - Intent signal monitoring. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines.

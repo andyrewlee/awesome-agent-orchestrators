@@ -3,6 +3,7 @@
 A curated list of tools and frameworks for orchestrating AI coding agents.
 
 ## Parallel Agent Runners
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 Tools for running multiple coding agents simultaneously on different tasks.
 

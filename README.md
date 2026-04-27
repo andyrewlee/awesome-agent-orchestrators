@@ -96,6 +96,7 @@ Systems for coordinating multiple specialized agents working together.
 - [gnap](https://github.com/farol-team/gnap) - Git-Native Agent Protocol: coordinate multiple agents via a shared git repo acting as a persistent task board (todo/doing/done), no orchestrator process required.
 - [hcom](https://github.com/aannoo/hcom) - Hook your AI coding agents together so they can message, watch, and spawn each other across terminals.
 - [kodo](https://github.com/ikamensh/kodo) - Autonomous multi-agent coding orchestrator that directs Claude Code, Codex, and Gemini CLI agents through work cycles with independent verification.
+- [loki-mode](https://github.com/asklokesh/loki-mode) - Autonomous SDLC orchestrator: PRD-to-deployed-product. 41 specialized agents in 8 swarms (engineering, ops, business, data, product, growth, review, orchestration), RARV cycles (Reason-Act-Reflect-Verify), 9 quality gates, blind 3-reviewer code review, anti-sycophancy completion council. Multi-provider (Claude Code full; Codex/Gemini/Cline/Aider degraded). Local-first, open-source, BUSL-1.1.
 - [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.
 - [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired tmux orchestrator with a shogun → karo → ashigaru hierarchy for running up to 10 parallel AI coding agents (Claude Code, Codex, Copilot, Kimi) with zero coordination API cost.
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System.

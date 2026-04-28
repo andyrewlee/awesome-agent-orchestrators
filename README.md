@@ -92,6 +92,7 @@ Systems for coordinating multiple specialized agents working together.
 - [clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents.
 - [ClawTeam](https://github.com/HKUDS/ClawTeam) - Agent Swarm Intelligence (One Command → Full Automation).
 - [CompanyHelm](https://github.com/CompanyHelm/companyhelm) - Distributed multi-agent orchestrator with task management and agent-to-agent conversations
+- [fusion](https://github.com/Runfusion/Fusion) - Multi node and multi platform agent orchestrator, supports missions, planning and more. Compatible with Paperclip, Hermes, OpenClaw. Built on Pi. ([runfusion.ai](https://runfusion.ai))
 - [gastown](https://github.com/steveyegge/gastown) - Multi-agent orchestration system with persistent work tracking.
 - [gnap](https://github.com/farol-team/gnap) - Git-Native Agent Protocol: coordinate multiple agents via a shared git repo acting as a persistent task board (todo/doing/done), no orchestrator process required.
 - [hcom](https://github.com/aannoo/hcom) - Hook your AI coding agents together so they can message, watch, and spawn each other across terminals.

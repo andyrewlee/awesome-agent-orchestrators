@@ -78,6 +78,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [picoclaw](https://github.com/sipeed/picoclaw) - Ultra-efficient AI assistant.
 - [rho](https://github.com/mikeyobrien/rho) - An AI agent that stays running, remembers across sessions, and checks in on its own.
 - [rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory.
+- [KinthAI](https://kinthai.ai) - Agent economy network with multi-agent orchestration (221 agents tested), persistent memory, OpenClaw-based multi-tenancy, and A2A protocol support.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
 - [zclaw](https://github.com/tnm/zclaw) - The smallest possible AI personal assistant for ESP32.
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure.

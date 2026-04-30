@@ -53,6 +53,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 AI assistants that bridge to messaging platforms and other interfaces.
 
 - [accomplish](https://github.com/accomplish-ai/accomplish) - Open source AI coworker that lives on your desktop.
+- [aeon](https://github.com/aaronjmars/aeon) - Autonomous agent framework that runs unattended on GitHub Actions; 90+ skills with quality scoring, self-healing, persistent memory, and reactive triggers.
 - [assistant](https://github.com/kcosr/assistant) - Panel-based personal assistant with a plugin architecture for productivity workflows.
 - [babyagi3](https://github.com/yoheinakajima/babyagi3) - A minimal AI agent you configure once, then run through natural language.
 - [cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it.

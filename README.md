@@ -87,6 +87,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 
 Systems for coordinating multiple specialized agents working together.
 
+- [agentsmesh](https://github.com/AgentsMesh/AgentsMesh) - The AI Agent Workforce Platform. Spin up remote AI workstations (AgentPods) with PTY sandboxes and git worktree isolation, coordinate multi-agent collaboration across channels and pod bindings, and manage tasks with a built-in Kanban. Self-hostable with BYOK. Supports Claude Code, Codex CLI, Gemini CLI, Aider, and OpenCode.
 - [antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.
 - [automata](https://github.com/sentientwave/automata) - Agent swarming organization system.
 - [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.

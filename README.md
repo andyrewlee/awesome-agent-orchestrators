@@ -68,6 +68,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [lettabot](https://github.com/letta-ai/lettabot) - Your personal AI assistant that remembers everything.
 - [LionClaw](https://github.com/moshthepitt/lionclaw) - Secure-first local AI assistant with durable sessions and installable skills.
 - [lobsterai](https://github.com/netease-youdao/lobsterai) - Your 24/7 all-scenario AI agent that gets work done for you.
+- [lucinate](https://github.com/lucinate-ai/lucinate) - Go-based terminal-native TUI chat client for OpenClaw, Hermes, and any OpenAI-compatible endpoint. Streaming responses, markdown rendering, tool call cards, local skills, cron management, session browsing, thinking control, and multi-agent support. Cross-platform, MIT licensed.
 - [mercury](https://github.com/Michaelliv/mercury) - Personal AI assistant that lives where you chat.
 - [MetaClaw](https://github.com/aiming-lab/MetaClaw) - Just talk to your agent — it learns and evolves.
 - [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight personal AI assistant.

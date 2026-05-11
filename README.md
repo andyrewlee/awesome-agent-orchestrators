@@ -12,6 +12,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - A terminal session manager for AI coding agents on Linux and macOS.
 - [agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents.
 - [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - Dashboard for orchestrating Claude, Aider, and Cursor agents across machines.
+- [AGX](https://github.com/ramarlina/agx) - Local-first agent orchestrator with parallel execution, wake-work-sleep checkpointing, and human-in-the-loop gates.
 - [aizen](https://github.com/vivy-company/aizen) - macOS workspace for managing git worktrees with integrated agent sessions.
 - [amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents.
 - [Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding.

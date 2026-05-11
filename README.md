@@ -109,6 +109,7 @@ Systems for coordinating multiple specialized agents working together.
 - [orc](https://github.com/spencermarx/orc) - Hierarchical multi-agent orchestrator that coordinates AI coding agents through planning, task decomposition, isolated worktrees, and review pipelines.
 - [ORCH](https://github.com/oxgeneral/ORCH) - CLI runtime for managing Claude Code, Codex, and Cursor as typed agent teams with state machine, goals, and TUI.
 - [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
+- [scion](https://github.com/GoogleCloudPlatform/scion) - Multi-agent orchestration testbed that runs AI agents in parallel isolated containers with separate workspaces, dynamic coordination, and normalized telemetry.
 - [shire](https://github.com/victor36max/shire) - Persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and full context preservation. Supports Claude Code, OpenCode, Pi Agent and more.
 - [skillfold](https://github.com/byronxlg/skillfold) - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into agent skills for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf.
 - [swarm-protocol](https://github.com/phuryn/swarm-protocol) - Headless coordination layer exposed as MCP server: claim work, detect file conflicts, heartbeat, and hand off tasks across agent sessions.

@@ -37,6 +37,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development.
 - [multica](https://github.com/multica-ai/multica) - Agent-first kanban board, multi-runtime support.
 - [openkanban](https://github.com/techdufus/openkanban) - TUI kanban board for orchestrating AI coding agents.
+- [ouijit](https://github.com/ouijit/ouijit) - Desktop task and terminal session manager that runs agent CLIs in parallel git worktrees with kanban task tracking. Claude Code, Codex, and Pi get live status indicators and can drive Ouijit through its CLI (create tasks, change statuses, update plans). Optional per-session Lima VM sandboxing. macOS and Linux.
 - [parallel-code](https://github.com/johannesjo/parallel-code) - Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees with built-in diff viewer and one-click merge.
 - [sortie](https://github.com/sortie-ai/sortie) - Turns issue tracker tickets into autonomous coding agent sessions. Agent-agnostic, tracker-agnostic, single Go binary with SQLite persistence.
 - [subtask](https://github.com/zippoxer/subtask) - Claude Skill to do tasks with subagents in Git worktrees.

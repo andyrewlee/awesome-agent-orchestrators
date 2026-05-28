@@ -31,6 +31,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [emdash](https://github.com/generalaction/emdash) - Run multiple coding agents in parallel.
 - [ghast](https://github.com/aidenybai/ghast) - Multitask with multiple terminals.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Get AI coding agents to solve hard problems in complex codebases.
+- [ivy-tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source AI coding orchestrator that manages Claude Code, Codex, Antigravity, Copilot, and OpenCode through a plan-based lifecycle with verification gates, self-improving memory, and human-in-the-loop checkpoints. ([tendril.ivy.app](https://tendril.ivy.app))
 - [jat](https://github.com/joewinke/jat) - The World's First Agentic IDE.
 - [jean](https://github.com/coollabsio/jean) - Desktop & web app for orchestrating coding agents (Claude, Codex, OpenCode) across projects and git worktrees.
 - [lalph](https://github.com/tim-smart/lalph) - LLM agent orchestrator driven by your chosen source of issues.

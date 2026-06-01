@@ -123,6 +123,7 @@ Projects implementing the "keep running until done" pattern.
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Hat-based orchestration that keeps agents in a loop until done.
 - [ralph-tui](https://github.com/subsy/ralph-tui) - Orchestrate AI coding agents to work through task lists autonomously.
 - [ralphy](https://github.com/michaelshimeles/ralphy) - Runs AI agents on tasks until done.
+- [driftless](https://github.com/mizan0515/driftless) - Non-developer-operable overnight loop that drives both Claude Code and Codex from one source of truth; surveys issues, runs parallel workers, self-recovers, and opens/merges PRs behind human-only gates, in a repo-local isolated home that never touches host-global config.
 - [Dex](https://github.com/francescoalemanno/dex) - Structured Ralph orchestrator with human-gated planning, programmatic task tracking, parallel multi-reviewer code review, automatic retries with backoff, and autonomous dead-end-aware research loops inspired by Karpathy's autoresearch; supports 7 CLI backends and ships cross-platform binaries.
 - [toryo](https://github.com/JesseRWeigel/toryo) - Intelligent agent orchestrator with trust-based delegation, quality ratcheting (git commit/revert), and Ralph Loop retries. Chains Claude Code, Aider, Gemini CLI, Ollama.
 - [wreckit](https://github.com/mikehostetler/wreckit) - Run Ralph Wiggum Loop over your roadmap.

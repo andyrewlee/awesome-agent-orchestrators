@@ -27,6 +27,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [constellagent](https://github.com/owengretzinger/constellagent) - macOS app for running multiple AI agents with their own terminal, editor, and git worktree.
 - [crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code sessions in parallel git worktrees.
 - [dmux](https://github.com/standardagents/dmux) - Parallel agents with tmux and worktrees.
+- [doforu](https://github.com/yctech2026/Doforu-APP) - Desktop-grade agent orchestrator with Plan/Agent/Orchestrator modes, 15+ model support, and natural language Skills. One prompt, multi-agent parallel delivery.
 - [dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents with automations, Kanban management, and MCP servers.
 - [emdash](https://github.com/generalaction/emdash) - Run multiple coding agents in parallel.
 - [ghast](https://github.com/aidenybai/ghast) - Multitask with multiple terminals.

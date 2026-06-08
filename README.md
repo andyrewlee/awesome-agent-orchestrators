@@ -93,6 +93,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 
 Systems for coordinating multiple specialized agents working together.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring MCP server for AI agent wallets on Solana. Verify agent wallet identity and reputation before x402 micropayments — a trust primitive for multi-agent payment flows.
 - [Agent Teams](https://github.com/777genius/agent-teams-ai) - Desktop app where you give high-level commands to autonomous AI agent teams across Claude, Codex, and OpenCode, and agents handle the work themselves with inter-agent messaging, Kanban task management, and built-in code review. Supports 200+ models and 75+ LLM providers.
 - [agentsmesh](https://github.com/AgentsMesh/AgentsMesh) - The AI Agent Workforce Platform. Spin up remote AI workstations (AgentPods) with PTY sandboxes and git worktree isolation, coordinate multi-agent collaboration across channels and pod bindings, and manage tasks with a built-in Kanban. Self-hostable with BYOK. Supports Claude Code, Codex CLI, Gemini CLI, Aider, and OpenCode.
 - [antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.

@@ -34,6 +34,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents with automations, Kanban management, and MCP servers.
 - [emdash](https://github.com/generalaction/emdash) - Run multiple coding agents in parallel.
 - [ghast](https://github.com/aidenybai/ghast) - Multitask with multiple terminals.
+- [HagiCode](https://hagicode.com/) - Local-first AI coding workspace with proposal workflows, parallel multi-agent execution, and multi-repository coordination.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Get AI coding agents to solve hard problems in complex codebases.
 - [ivy-tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source AI coding orchestrator that manages Claude Code, Codex, Antigravity, Copilot, and OpenCode through a plan-based lifecycle with verification gates, self-improving memory, and human-in-the-loop checkpoints. ([tendril.ivy.app](https://tendril.ivy.app))
 - [jat](https://github.com/joewinke/jat) - The World's First Agentic IDE.

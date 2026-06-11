@@ -128,6 +128,7 @@ Systems for coordinating multiple specialized agents working together.
 
 Projects implementing the "keep running until done" pattern.
 
+- [company-skill](https://github.com/jagmarques/company-skill) - Claude Code skill that defines a team in a markdown file, hands it a goal, and keeps looping until every success criterion passes with reproduced evidence. A stop hook blocks exit until criteria.json is satisfied, pinned by a test suite that runs in CI.
 - [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection.
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Hat-based orchestration that keeps agents in a loop until done.
 - [ralph-tui](https://github.com/subsy/ralph-tui) - Orchestrate AI coding agents to work through task lists autonomously.

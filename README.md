@@ -128,6 +128,7 @@ Systems for coordinating multiple specialized agents working together.
 
 Projects implementing the "keep running until done" pattern.
 
+- [MartinLoop](https://github.com/Keesan12/martin-loop) - Control plane for AI coding agents with hard budget stops, verifier gates, rollback evidence, and inspectable run receipts.
 - [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection.
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Hat-based orchestration that keeps agents in a loop until done.
 - [ralph-tui](https://github.com/subsy/ralph-tui) - Orchestrate AI coding agents to work through task lists autonomously.

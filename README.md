@@ -136,4 +136,3 @@ Projects implementing the "keep running until done" pattern.
 - [toryo](https://github.com/JesseRWeigel/toryo) - Intelligent agent orchestrator with trust-based delegation, quality ratcheting (git commit/revert), and Ralph Loop retries. Chains Claude Code, Aider, Gemini CLI, Ollama.
 - [wreckit](https://github.com/mikehostetler/wreckit) - Run Ralph Wiggum Loop over your roadmap.
 - [neuralyzer](https://github.com/gintasz/neuralyzer) - Allow agent to wipe its own session context and re-run the first message. Easier and more ergonomic Ralph loop engineering.
-- [neuralyzer](https://github.com/gintasz/neuralyzer) - Allow agent to wipe its own session context and re-run the first message. Easier and more ergonomic Ralph loop engineering.

@@ -34,6 +34,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents with automations, Kanban management, and MCP servers.
 - [emdash](https://github.com/generalaction/emdash) - Run multiple coding agents in parallel.
 - [ghast](https://github.com/aidenybai/ghast) - Multitask with multiple terminals.
+- [GlanceTerm](https://github.com/jessemaxh/GlanceTerm) - Terminal (Tabby fork) with a live status sidebar for every AI agent tab — working / done / needs-you — driven by the agents' own hook events, with click-to-jump and restart-safe session resume for Claude Code, Codex, Gemini CLI, and opencode.
 - [herdr](https://github.com/ogulcancelik/herdr) - Agent-aware terminal multiplexer with persistent workspaces, tabs, panes, and status detection for CLI coding agents.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Get AI coding agents to solve hard problems in complex codebases.
 - [ivy-tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source AI coding orchestrator that manages Claude Code, Codex, Antigravity, Copilot, and OpenCode through a plan-based lifecycle with verification gates, self-improving memory, and human-in-the-loop checkpoints. ([tendril.ivy.app](https://tendril.ivy.app))

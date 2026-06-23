@@ -124,6 +124,7 @@ Systems for coordinating multiple specialized agents working together.
 - [scion](https://github.com/GoogleCloudPlatform/scion) - Multi-agent orchestration testbed that runs AI agents in parallel isolated containers with separate workspaces, dynamic coordination, and normalized telemetry.
 - [shire](https://github.com/victor36max/shire) - Persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and full context preservation. Supports Claude Code, OpenCode, Pi Agent and more.
 - [skillfold](https://github.com/byronxlg/skillfold) - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into agent skills for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf.
+- [agent-runbook](https://github.com/KnoxOps/agent-runbook) - Python CLI that compiles contract-based YAML runbooks into SKILL.md files for Claude Code and Codex. Define multi-step agent workflows with loops, branching, parallelism, and file-based state passing — write the runbook once, generate executable skills with one command.
 - [swarm-protocol](https://github.com/phuryn/swarm-protocol) - Headless coordination layer exposed as MCP server: claim work, detect file conflicts, heartbeat, and hand off tasks across agent sessions.
 - [wit](https://github.com/amaar-mc/wit) - Coordination protocol that locks specific functions (not files) via Tree-sitter AST parsing. Agents declare intents, acquire symbol level locks, and get conflict warnings before writing code.
 

@@ -56,6 +56,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - An RTS-style workspace for managing AI coding agents.
+- [repomon](https://github.com/AliHamzaAzam/repomon) - A Rust TUI that spawns and supervises many AI coding agents at once across multiple repositories and git worktrees. Agents run in durable tmux sessions; the ones waiting on you float to the top, and you can approve a prompt from your phone.
 
 ## Personal Assistants
 

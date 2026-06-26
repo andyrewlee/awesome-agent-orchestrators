@@ -4,6 +4,8 @@ A curated list of tools and frameworks for orchestrating AI coding agents.
 
 ## Parallel Agent Runners
 
+- [Loopy](https://github.com/arjunkshah/loopy) - Kanban-based agent operating system for orchestrating 43 coding-agent CLIs (Codex, Claude Code, Cursor, Gemini) with complexity-aware routing, named subagents, and verifiable execution receipts. Core orchestration runs fully locally; optional integrations via user-provided API keys.
+
 Tools for running multiple coding agents simultaneously on different tasks.
 
 - [1code](https://github.com/21st-dev/1code) - UI for Claude Code with local and remote agent execution.

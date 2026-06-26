@@ -131,6 +131,7 @@ Systems for coordinating multiple specialized agents working together.
 
 Projects implementing the "keep running until done" pattern.
 
+- [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - Local GUI orchestrator for long-running AI coding tasks with LLM council planning, OpenCode execution in isolated git worktrees, and Ralph-style recovery loops that retry failed beads with fresh context.
 - [MartinLoop](https://github.com/Keesan12/martin-loop) - Control plane for AI coding agents with hard budget stops, verifier gates, rollback evidence, and inspectable run receipts.
 - [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection.
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Hat-based orchestration that keeps agents in a loop until done.

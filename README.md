@@ -30,6 +30,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [collaborator](https://github.com/collaborator-ai/collab-public) - A place to create with agents.
 - [constellagent](https://github.com/owengretzinger/constellagent) - macOS app for running multiple AI agents with their own terminal, editor, and git worktree.
 - [crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code sessions in parallel git worktrees.
+- [defract](https://defract.dev) — macOS app that runs your Claude Code agents through a structured story → design → architecture → implementation → review lifecycle, with a visual design stage. Local-first; bring your own Anthropic key.
 - [dmux](https://github.com/standardagents/dmux) - Parallel agents with tmux and worktrees.
 - [dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents with automations, Kanban management, and MCP servers.
 - [emdash](https://github.com/generalaction/emdash) - Run multiple coding agents in parallel.

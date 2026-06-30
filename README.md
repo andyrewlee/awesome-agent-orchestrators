@@ -51,6 +51,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [superset](https://github.com/superset-sh/superset) - A terminal built for coding agents.
 - [symphony](https://github.com/openai/symphony) - Turns project work into isolated, autonomous implementation runs.
 - [t3code](https://github.com/pingdotgg/t3code) - Minimal web GUI for coding agents.
+- [thurbox](https://github.com/Thurbeen/thurbox) - Multi-session TUI orchestrator that runs many coding-agent CLIs (Claude Code, Codex, opencode, Aider, Copilot, and any CLI you define) in persistent tmux sessions, with git worktree isolation, remote SSH sessions, inter-session messaging, and a native code-review view. ([thurbox.thurbeen.eu](https://thurbox.thurbeen.eu))
 - [tmux-ide](https://github.com/wavyrai/tmux-ide) - Tmux-powered terminal IDE with `ide.yml` layouts, agent-team templates, and Claude Code integration.
 - [tutti](https://github.com/nutthouse/tutti) - Multi-agent orchestration CLI with config-driven workflows, git worktree isolation, and typed artifact flow between agents.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.

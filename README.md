@@ -7,6 +7,7 @@ A curated list of tools and frameworks for orchestrating AI coding agents.
 Tools for running multiple coding agents simultaneously on different tasks.
 
 - [1code](https://github.com/21st-dev/1code) - UI for Claude Code with local and remote agent execution.
+- [5dive](https://github.com/5dive-ai/5dive) - Run a company of named AI agents on a server you own, each with its own model, memory, and role. Agents share an org chart and backlog, hand work to each other, and escalate to a human over Telegram. Multi-runtime (Claude Code, Codex, Grok, Antigravity, opencode).
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents.
 - [agent-kanban](https://github.com/saltbo/agent-kanban) - Agent-first kanban board with leader-worker model, cryptographic agent identity, and multi-runtime support (Claude Code, Codex, Gemini CLI).
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - A terminal session manager for AI coding agents on Linux and macOS.

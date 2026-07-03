@@ -27,6 +27,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [clave](https://github.com/codika-io/clave) - Native macOS app for running multiple Claude Code sessions in parallel with split/grid layouts, session groups, SSH remote sessions, and usage analytics. Local-first and MIT.
 - [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) in one browser window. Live status, session resume, autopilot routing between agents, and full control from a phone while away.
 - [cmux](https://github.com/manaflow-ai/cmux) - Open-source platform for running multiple coding agents in parallel.
+- [CodeAgentSwarm](https://github.com/arturogj92/codeagentswarm) - Desktop app for running multiple Claude Code, Codex CLI, and Gemini CLI agents in parallel supervised terminals with notifications, session history, per-terminal diffs, and an MCP kanban board. ([codeagentswarm.com](https://www.codeagentswarm.com))
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Orchestrate multiple Codex agents across local workspaces.
 - [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - The command center that puts AI coding on steroids.
 - [collaborator](https://github.com/collaborator-ai/collab-public) - A place to create with agents.

@@ -46,6 +46,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development.
 - [multica](https://github.com/multica-ai/multica) - Agent-first kanban board, multi-runtime support.
 - [nimbalyst](https://github.com/nimbalyst/nimbalyst) - The open-source visual workspace for building with Codex, Claude Code. Parallel sessions, git worktrees, kanban, visual editing.
+- [octomux](https://github.com/ShreyPaharia/octomux) - Local dashboard for running parallel Claude Code and Cursor agents, each in its own git worktree, with a unified permission inbox, live monitor grid, and in-app diff review. MIT.
 - [openkanban](https://github.com/techdufus/openkanban) - TUI kanban board for orchestrating AI coding agents.
 - [Orca](https://github.com/stablyai/orca) - IDE for running multiple CLI coding agents side-by-side across isolated git worktrees.
 - [parallel-code](https://github.com/johannesjo/parallel-code) - Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees with built-in diff viewer and one-click merge.

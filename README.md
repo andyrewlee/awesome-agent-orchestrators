@@ -49,6 +49,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [openkanban](https://github.com/techdufus/openkanban) - TUI kanban board for orchestrating AI coding agents.
 - [Orca](https://github.com/stablyai/orca) - IDE for running multiple CLI coding agents side-by-side across isolated git worktrees.
 - [parallel-code](https://github.com/johannesjo/parallel-code) - Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees with built-in diff viewer and one-click merge.
+- [Proliferate](https://github.com/proliferate-ai/proliferate) - Open-source local and cloud agent IDE for running Claude Code, Codex, Gemini CLI, and other coding agents in parallel across isolated workspaces.
 - [sortie](https://github.com/sortie-ai/sortie) - Turns issue tracker tickets into autonomous coding agent sessions. Agent-agnostic, tracker-agnostic, single Go binary with SQLite persistence.
 - [subtask](https://github.com/zippoxer/subtask) - Claude Skill to do tasks with subagents in Git worktrees.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS coding agent orchestrator.

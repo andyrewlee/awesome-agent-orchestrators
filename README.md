@@ -137,6 +137,7 @@ Systems for coordinating multiple specialized agents working together.
 
 Projects implementing the "keep running until done" pattern.
 
+- [DevIntern](https://github.com/getdevintern/devintern) - Picks up tickets from Jira, Linear, Trello, Asana, Azure DevOps, GitHub Issues, or markdown files and turns them into self-reviewed pull requests, running the coding agent of your choice (Claude Code, Codex, Cursor, OpenCode, Gemini CLI) non-interactively on your machines with your own model keys. Feasibility gate flags vague tickets back to the tracker; optional unattended mode runs the full loop with scheduled pickup and review-comments-to-commits.
 - [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - Local GUI orchestrator for long-running AI coding tasks with LLM council planning, OpenCode execution in isolated git worktrees, and Ralph-style recovery loops that retry failed beads with fresh context.
 - [MartinLoop](https://github.com/Keesan12/martin-loop) - Control plane for AI coding agents with hard budget stops, verifier gates, rollback evidence, and inspectable run receipts.
 - [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection.

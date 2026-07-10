@@ -72,6 +72,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [assistant](https://github.com/kcosr/assistant) - Panel-based personal assistant with a plugin architecture for productivity workflows.
 - [babyagi3](https://github.com/yoheinakajima/babyagi3) - A minimal AI agent you configure once, then run through natural language.
 - [cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it.
+- [corellis](https://github.com/CorellisOrg/corellis) - Multi-agent governance framework for OpenClaw — goal decomposition, fleet-wide memory, correction propagation, and approval workflows for 20+ agent fleets.
 - [ClawWork](https://github.com/HKUDS/ClawWork) - OpenClaw as your AI coworker.
 - [CoPaw](https://github.com/agentscope-ai/CoPaw) - Your Personal AI Assistant.
 - [denchclaw](https://github.com/DenchHQ/denchclaw) - Managed OpenClaw framework for CRM, sales automation, and outreach agents.

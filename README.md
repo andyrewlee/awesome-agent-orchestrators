@@ -59,6 +59,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [thurbox](https://github.com/Thurbeen/thurbox) - Multi-session TUI orchestrator that runs many coding-agent CLIs (Claude Code, Codex, opencode, Aider, Copilot, and any CLI you define) in persistent tmux sessions, with git worktree isolation, remote SSH sessions, inter-session messaging, and a native code-review view. ([thurbox.thurbeen.eu](https://thurbox.thurbeen.eu))
 - [tmux-ide](https://github.com/wavyrai/tmux-ide) - Tmux-powered terminal IDE with `ide.yml` layouts, agent-team templates, and Claude Code integration.
 - [tutti](https://github.com/nutthouse/tutti) - Multi-agent orchestration CLI with config-driven workflows, git worktree isolation, and typed artifact flow between agents.
+- [Tura](https://github.com/Tura-AI/tura) - Local-first open-source coding agent with concurrent multi-session GUI and TUI workflows, durable sessions, and OpenAI-compatible or local model support.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - An RTS-style workspace for managing AI coding agents.

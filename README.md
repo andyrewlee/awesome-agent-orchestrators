@@ -44,6 +44,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [jat](https://github.com/joewinke/jat) - The World's First Agentic IDE.
 - [jean](https://github.com/coollabsio/jean) - Desktop & web app for orchestrating coding agents (Claude, Codex, OpenCode) across projects and git worktrees.
 - [lalph](https://github.com/tim-smart/lalph) - LLM agent orchestrator driven by your chosen source of issues.
+- [tlbx](https://github.com/tlbx-ai/tlbx) - Self-hosted browser workspace for running Claude Code, Codex, OpenCode, and other CLI agents in parallel across persistent real PTY sessions on your own machines, with control from any browser or phone.
 - [mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development.
 - [multica](https://github.com/multica-ai/multica) - Agent-first kanban board, multi-runtime support.
 - [nimbalyst](https://github.com/nimbalyst/nimbalyst) - The open-source visual workspace for building with Codex, Claude Code. Parallel sessions, git worktrees, kanban, visual editing.

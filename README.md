@@ -129,6 +129,7 @@ Systems for coordinating multiple specialized agents working together.
 - [MiroShark](https://github.com/aaronjmars/MiroShark) - Swarm-intelligence engine where hundreds of grounded LLM personas coordinate across simulated Twitter, Reddit, and a prediction market to model how a population reacts to a scenario hour-by-hour. Neo4j-grounded personas, per-agent belief state, counterfactual branching, and per-agent MCP tools.
 - [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired tmux orchestrator with a shogun → karo → ashigaru hierarchy for running up to 10 parallel AI coding agents (Claude Code, Codex, Copilot, Kimi) with zero coordination API cost.
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System.
+- [Open Agent Relay](https://github.com/ShakespeareLabs/open-agent-relay) - Local-first relay that lets teammates and other agents invoke existing agent capabilities over a trusted LAN without moving their implementation or credentials.
 - [opengoat](https://github.com/marian2js/opengoat) - Build AI autonomous organizations of OpenClaw agents.
 - [orc](https://github.com/spencermarx/orc) - Hierarchical multi-agent orchestrator that coordinates AI coding agents through planning, task decomposition, isolated worktrees, and review pipelines.
 - [ORCH](https://github.com/oxgeneral/ORCH) - CLI runtime for managing Claude Code, Codex, and Cursor as typed agent teams with state machine, goals, and TUI.

@@ -10,7 +10,6 @@ Run and supervise multiple independent coding-agent sessions side-by-side from a
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - A terminal session manager for AI coding agents on Linux and macOS.
 - [agentbox](https://github.com/madarco/agentbox) - Run multiple coding agents in parallel, each teleported into its own sandboxed box (local Docker or cloud VMs via Hetzner/Daytona/Vercel/E2B) with sub-1s checkpoint starts. Works with Claude Code, Codex, and OpenCode.
 - [amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents.
-- [bernstein](https://github.com/chernistry/bernstein) - Deterministic orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits. Zero LLM tokens on coordination.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents in background.
 - [dmux](https://github.com/standardagents/dmux) - Parallel agents with tmux and worktrees.
 - [herdr](https://github.com/ogulcancelik/herdr) - Agent-aware terminal multiplexer with persistent workspaces, tabs, panes, and status detection for CLI coding agents.
@@ -78,7 +77,6 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [kodo](https://github.com/ikamensh/kodo) - Autonomous multi-agent coding orchestrator that directs Claude Code, Codex, and Gemini CLI agents through work cycles with independent verification.
 - [loki-mode](https://github.com/asklokesh/loki-mode) - Autonomous SDLC orchestrator: PRD-to-deployed-product. 41 specialized agents in 8 swarms (engineering, ops, business, data, product, growth, review, orchestration), RARV cycles (Reason-Act-Reflect-Verify), 9 quality gates, blind 3-reviewer code review, anti-sycophancy completion council. Multi-provider (Claude Code full; Codex/Gemini/Cline/Aider degraded). Local-first, open-source, BUSL-1.1.
 - [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired tmux orchestrator with a shogun → karo → ashigaru hierarchy for running up to 10 parallel AI coding agents (Claude Code, Codex, Copilot, Kimi) with zero coordination API cost.
-- [multica](https://github.com/multica-ai/multica) - Agent-first kanban board, multi-runtime support.
 - [orc](https://github.com/spencermarx/orc) - Hierarchical multi-agent orchestrator that coordinates AI coding agents through planning, task decomposition, isolated worktrees, and review pipelines.
 - [ORCH](https://github.com/oxgeneral/ORCH) - CLI runtime for managing Claude Code, Codex, and Cursor as typed agent teams with state machine, goals, and TUI.
 - [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
@@ -90,6 +88,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 
 Projects implementing the "keep running until done" pattern — a single goal driven through a retry-until-verified loop.
 
+- [bernstein](https://github.com/chernistry/bernstein) - Deterministic orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits. Zero LLM tokens on coordination.
 - [Dex](https://github.com/francescoalemanno/dex) - Structured Ralph orchestrator with human-gated planning, programmatic task tracking, parallel multi-reviewer code review, automatic retries with backoff, and autonomous dead-end-aware research loops inspired by Karpathy's autoresearch; supports 7 CLI backends and ships cross-platform binaries.
 - [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - Local GUI orchestrator for long-running AI coding tasks with LLM council planning, OpenCode execution in isolated git worktrees, and Ralph-style recovery loops that retry failed beads with fresh context.
 - [MartinLoop](https://github.com/Keesan12/martin-loop) - Control plane for AI coding agents with hard budget stops, verifier gates, rollback evidence, and inspectable run receipts.
@@ -103,8 +102,9 @@ Projects implementing the "keep running until done" pattern — a single goal dr
 Unattended agents driven by an external source — an issue queue, a work board, or a schedule — that run and sync state back without side-by-side supervision.
 
 - [aeon](https://github.com/aaronjmars/aeon) - Autonomous agent framework that runs unattended on GitHub Actions; 90+ skills with quality scoring, self-healing, persistent memory, and reactive triggers.
+- [centaur](https://github.com/paradigmxyz/centaur) - Self-hosted team agent platform with Slack-native conversations, Kubernetes sandboxes, shared tools, and durable workflows.
 - [lalph](https://github.com/tim-smart/lalph) - LLM agent orchestrator driven by your chosen source of issues.
-- [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System.
+- [multica](https://github.com/multica-ai/multica) - Agent-first kanban board, multi-runtime support.
 - [sortie](https://github.com/sortie-ai/sortie) - Turns issue tracker tickets into autonomous coding agent sessions. Agent-agnostic, tracker-agnostic, single Go binary with SQLite persistence.
 - [symphony](https://github.com/openai/symphony) - Turns project work into isolated, autonomous implementation runs.
 
@@ -121,6 +121,7 @@ Building blocks rather than runnable orchestrators: coordination protocols, sand
 - [MetaClaw](https://github.com/aiming-lab/MetaClaw) - Just talk to your agent — it learns and evolves.
 - [NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw.
 - [neuralyzer](https://github.com/gintasz/neuralyzer) - Allow agent to wipe its own session context and re-run the first message. Easier and more ergonomic Ralph loop engineering.
+- [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System.
 - [skillfold](https://github.com/byronxlg/skillfold) - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into agent skills for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf.
 
 ## Personal Assistants
@@ -130,7 +131,6 @@ General-purpose assistants you reach through messaging platforms or a desktop/te
 - [accomplish](https://github.com/accomplish-ai/accomplish) - Open source AI coworker that lives on your desktop.
 - [assistant](https://github.com/kcosr/assistant) - Panel-based personal assistant with a plugin architecture for productivity workflows.
 - [automata](https://github.com/sentientwave/automata) - Agent swarming organization system.
-- [centaur](https://github.com/paradigmxyz/centaur) - Self-hosted team agent platform with Slack-native conversations, Kubernetes sandboxes, shared tools, and durable workflows.
 - [CoPaw](https://github.com/agentscope-ai/CoPaw) - Your Personal AI Assistant.
 - [denchclaw](https://github.com/DenchHQ/denchclaw) - Managed OpenClaw framework for CRM, sales automation, and outreach agents.
 - [ghostclaw](https://github.com/b1rdmania/ghostclaw) - An AI agent that lives on your computer and works for you.

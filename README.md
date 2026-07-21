@@ -68,6 +68,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [agent-kanban](https://github.com/saltbo/agent-kanban) - Agent-first kanban board with leader-worker model, cryptographic agent identity, and multi-runtime support (Claude Code, Codex, Gemini CLI).
 - [agentsmesh](https://github.com/AgentsMesh/AgentsMesh) - The AI Agent Workforce Platform. Spin up remote AI workstations (AgentPods) with PTY sandboxes and git worktree isolation, coordinate multi-agent collaboration across channels and pod bindings, and manage tasks with a built-in Kanban. Self-hostable with BYOK. Supports Claude Code, Codex CLI, Gemini CLI, Aider, and OpenCode.
 - [Agon](https://github.com/AutoResearch-Factory/Agon) - Autonomous research system that orchestrates scientist, coder, and auditor loops from topic to idea, proposal, and experiment.
+- [buzz](https://github.com/block/buzz) - Self-hosted workspace where humans and AI agents collaborate in shared channels on a Nostr relay you own. Agents are first-class members with their own keys and audit trails, and can open repos, send patches, review code, run workflows, and orchestrate each other. Works with Claude Code, Codex, and Goose across desktop, web, CLI, and mobile.
 - [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.
 - [claude_code_bridge](https://github.com/bfly123/claude_code_bridge) - Real-time multi-AI collaboration.
 - [ClawTeam](https://github.com/HKUDS/ClawTeam) - Agent Swarm Intelligence (One Command → Full Automation).

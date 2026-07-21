@@ -151,14 +151,6 @@ General-purpose assistants you reach through messaging platforms or a desktop/te
 - [zclaw](https://github.com/tnm/zclaw) - The smallest possible AI personal assistant for ESP32.
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure.
 
-## Outliers / Out of Scope
-
-Active projects that match no orchestration category on the list — kept here for reference and candidates for removal.
-
-- [MiroShark](https://github.com/aaronjmars/MiroShark) - Swarm-intelligence engine where hundreds of grounded LLM personas coordinate across simulated Twitter, Reddit, and a prediction market to model how a population reacts to a scenario hour-by-hour. Neo4j-grounded personas, per-agent belief state, counterfactual branching, and per-agent MCP tools.
-- [piclaw](https://github.com/rcarmo/piclaw) - A pi-based general-purpose agent.
-- [Tura](https://github.com/Tura-AI/tura) - Local-first open-source coding agent with concurrent multi-session GUI and TUI workflows, durable sessions, and OpenAI-compatible or local model support.
-
 ## Resting
 
 A watchlist of projects without a push in the last few months (checked 2026-07-21). They stay here until they're active again, then move back up.

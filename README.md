@@ -2,6 +2,11 @@
 
 A curated list of tools and frameworks for orchestrating AI coding agents.
 
+1. [Parallel Agent Runners](#parallel-agent-runners)
+2. [Personal Assistants](#personal-assistants)
+3. [Multi-Agent Swarms](#multi-agent-swarms)
+4. [Autonomous Loop Runners](#autonomous-loop-runners)
+
 ## Parallel Agent Runners
 
 Tools for running multiple coding agents simultaneously on different tasks.

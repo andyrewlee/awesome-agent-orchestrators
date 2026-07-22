@@ -52,6 +52,7 @@ The same parallel-sessions workflow delivered as a desktop app or a browser/mobi
 - [Proliferate](https://github.com/proliferate-ai/proliferate) - Open-source local and cloud agent IDE for running Claude Code, Codex, Gemini CLI, and other coding agents in parallel across isolated workspaces.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS coding agent orchestrator.
 - [superset](https://github.com/superset-sh/superset) - A terminal built for coding agents.
+- [synara](https://github.com/Emanuele-web04/synara) - A GUI desktop workspace for running and managing AI coding agents across local projects.
 - [t3code](https://github.com/pingdotgg/t3code) - Minimal web GUI for coding agents.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
 - [tlbx](https://github.com/tlbx-ai/tlbx) - Self-hosted browser workspace for running Claude Code, Codex, OpenCode, and other CLI agents in parallel across persistent real PTY sessions on your own machines, with control from any browser or phone.

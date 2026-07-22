@@ -29,6 +29,7 @@ The same parallel-sessions workflow delivered as a desktop app or a browser/mobi
 - [aizen](https://github.com/vivy-company/aizen) - macOS workspace for managing git worktrees with integrated agent sessions.
 - [Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding.
 - [automaker](https://github.com/AutoMaker-Org/automaker) - Autonomous AI development studio.
+- [Better Agent](https://github.com/ofekron/better-agent) - Local web workspace for running and supervising native Claude, Codex, and Gemini sessions with parallel delegation, persistent state, approvals, files, and restart recovery.
 - [Claude Command Center (CCC)](https://github.com/amirfish1/claude-command-center) - Local dashboard for spawning, monitoring, and resuming parallel Claude Code, Codex, Cursor, Antigravity, and Kilo Code sessions.
 - [clave](https://github.com/codika-io/clave) - Native macOS app for running multiple Claude Code sessions in parallel with split/grid layouts, session groups, SSH remote sessions, and usage analytics. Local-first and MIT.
 - [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) in one browser window. Live status, session resume, autopilot routing between agents, and full control from a phone while away.

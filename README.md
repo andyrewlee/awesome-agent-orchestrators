@@ -41,6 +41,7 @@ The same parallel-sessions workflow delivered as a desktop app or a browser/mobi
 - [dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents with automations, Kanban management, and MCP servers.
 - [Emdash](https://github.com/generalaction/emdash) - Run multiple coding agents in parallel.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Get AI coding agents to solve hard problems in complex codebases.
+- [Hyperlane](https://github.com/Akkento/hyperlane) - VS Code-based IDE that runs coding agents in parallel across worktrees. In-editor PR review, terminal multiplexer, Node and React profilers, design-mode inspector, indexed search, extensions. Supports Claude Code, Codex, OpenCode, Gemini CLI, and any CLI or ACP agent.
 - [IM.codes](https://github.com/im4codes/imcodes) - Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents, built for away-from-desk continuation with terminal access, file browsing, git views, localhost preview, notifications, scheduled tasks, and multi-agent workflows.
 - [ivy-tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source AI coding orchestrator that manages Claude Code, Codex, Antigravity, Copilot, and OpenCode through a plan-based lifecycle with verification gates, self-improving memory, and human-in-the-loop checkpoints. ([tendril.ivy.app](https://tendril.ivy.app))
 - [jat](https://github.com/joewinke/jat) - The World's First Agentic IDE.
@@ -60,7 +61,6 @@ The same parallel-sessions workflow delivered as a desktop app or a browser/mobi
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - An RTS-style workspace for managing AI coding agents.
-- [Hyperlane](https://github.com/Akkento/hyperlane) - VS Code-based IDE that runs coding agents in parallel across worktrees. In-editor PR review, terminal multiplexer, Node and React profilers, design-mode inspector, indexed search, extensions. Supports Claude Code, Codex, OpenCode, Gemini CLI, and any CLI or ACP agent.
 
 ## Multi-Agent Swarms
 

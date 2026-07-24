@@ -131,6 +131,7 @@ Building blocks rather than runnable orchestrators: coordination protocols, sand
 - [neuralyzer](https://github.com/gintasz/neuralyzer) - Allow agent to wipe its own session context and re-run the first message. Easier and more ergonomic Ralph loop engineering.
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System.
 - [skillfold](https://github.com/byronxlg/skillfold) - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into agent skills for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf.
+- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Runs sub-agents from portable Markdown definitions that encode task-specific instructions and execution choices—backend, model, effort, and permissions—for reuse across AI coding tools.
 
 ## Personal Assistants
 

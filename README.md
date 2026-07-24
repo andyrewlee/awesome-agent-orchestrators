@@ -23,6 +23,7 @@ Run and supervise multiple independent coding-agent sessions side-by-side from a
 
 The same parallel-sessions workflow delivered as a desktop app or a browser/mobile dashboard, with diff review and one-click merge.
 
+- [agent-squid](https://github.com/agent-squid/squid) - Your Local Coding Agents, Unified. AgentSquid supports named lanes (#topic@agent), parallel prompting, contex sharing across agents, per prompt token analysis, realtime quota gauge, micro orchestration graph; Squid Flow, Goldfish mode with optional N-lookback and mobile access.
 - [agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents.
 - [AGX](https://github.com/ramarlina/agx) - Local-first agent orchestrator with parallel execution, wake-work-sleep checkpointing, and human-in-the-loop gates.
 - [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - Dashboard for orchestrating Claude, Aider, and Cursor agents across machines.

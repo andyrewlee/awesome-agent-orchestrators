@@ -95,6 +95,7 @@ Projects implementing the "keep running until done" pattern — a single goal dr
 
 - [bernstein](https://github.com/chernistry/bernstein) - Deterministic orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits. Zero LLM tokens on coordination.
 - [Dex](https://github.com/francescoalemanno/dex) - Structured Ralph orchestrator with human-gated planning, programmatic task tracking, parallel multi-reviewer code review, automatic retries with backoff, and autonomous dead-end-aware research loops inspired by Karpathy's autoresearch; supports 7 CLI backends and ships cross-platform binaries.
+- [fractal](https://github.com/plasma-ai/fractal) - Hierarchical agent loops that delegate separable subtasks to child agents in isolated git worktrees, with configurable limits on depth, cost, and time.
 - [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - Local GUI orchestrator for long-running AI coding tasks with LLM council planning, OpenCode execution in isolated git worktrees, and Ralph-style recovery loops that retry failed beads with fresh context.
 - [MartinLoop](https://github.com/Keesan12/martin-loop) - Control plane for AI coding agents with hard budget stops, verifier gates, rollback evidence, and inspectable run receipts.
 - [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection.

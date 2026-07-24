@@ -58,6 +58,7 @@ The same parallel-sessions workflow delivered as a desktop app or a browser/mobi
 - [t3code](https://github.com/pingdotgg/t3code) - Minimal web GUI for coding agents.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
 - [tlbx](https://github.com/tlbx-ai/tlbx) - Self-hosted browser workspace for running Claude Code, Codex, OpenCode, and other CLI agents in parallel across persistent real PTY sessions on your own machines, with control from any browser or phone.
+- [Unpeel](https://unpeel.com) - Native macOS app built on the Ghostty terminal engine for running and remote-controlling multiple CLI agent sessions (Claude Code, Codex, Gemini CLI, and more): persistent terminals that survive app restarts, git worktree isolation, attention notifications, and iPhone/iPad remote control via a self-hosted E2E-encrypted relay. Closed-source, free download with a paid tier for remote access.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - An RTS-style workspace for managing AI coding agents.

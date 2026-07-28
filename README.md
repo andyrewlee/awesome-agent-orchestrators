@@ -111,6 +111,7 @@ Unattended agents driven by an external source — an issue queue, a work board,
 
 - [aeon](https://github.com/aaronjmars/aeon) - Autonomous agent framework that runs unattended on GitHub Actions; 90+ skills with quality scoring, self-healing, persistent memory, and reactive triggers.
 - [centaur](https://github.com/paradigmxyz/centaur) - Self-hosted team agent platform with Slack-native conversations, Kubernetes sandboxes, shared tools, and durable workflows.
+- [kraken](https://github.com/rafael-adcp/kraken) - Agent-agnostic task queue where the queue *is* GitHub Issues — named workers claim one task at a time and run in your own long-lived environment, with **no server, DB, or daemon** (state is issue labels plus a git ref).
 - [lalph](https://github.com/tim-smart/lalph) - LLM agent orchestrator driven by your chosen source of issues.
 - [multica](https://github.com/multica-ai/multica) - Agent-first kanban board, multi-runtime support.
 - [sortie](https://github.com/sortie-ai/sortie) - Turns issue tracker tickets into autonomous coding agent sessions. Agent-agnostic, tracker-agnostic, single Go binary with SQLite persistence.

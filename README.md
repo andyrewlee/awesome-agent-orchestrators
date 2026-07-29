@@ -17,7 +17,6 @@ Run and supervise multiple independent coding-agent sessions side-by-side from a
 - [herdr](https://github.com/ogulcancelik/herdr) - Agent-aware terminal multiplexer with persistent workspaces, tabs, panes, and status detection for CLI coding agents.
 - [openkanban](https://github.com/techdufus/openkanban) - TUI kanban board for orchestrating AI coding agents.
 - [repomon](https://github.com/AliHamzaAzam/repomon) - A Rust TUI that spawns and supervises many AI coding agents at once across multiple repositories and git worktrees. Agents run in durable tmux sessions; the ones waiting on you float to the top, and you can approve a prompt from your phone.
-- [subtask](https://github.com/zippoxer/subtask) - Claude Skill to do tasks with subagents in Git worktrees.
 - [thurbox](https://github.com/Thurbeen/thurbox) - Multi-session TUI orchestrator that runs many coding-agent CLIs (Claude Code, Codex, opencode, Aider, Copilot, and any CLI you define) in persistent tmux sessions, with git worktree isolation, remote SSH sessions, inter-session messaging, and a native code-review view. ([thurbox.thurbeen.eu](https://thurbox.thurbeen.eu))
 - [tmux-ide](https://github.com/wavyrai/tmux-ide) - Tmux-powered terminal IDE with `ide.yml` layouts, agent-team templates, and Claude Code integration.
 
@@ -62,7 +61,6 @@ The same parallel-sessions workflow delivered as a desktop app or a browser/mobi
 - [t3code](https://github.com/pingdotgg/t3code) - Minimal web GUI for coding agents.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge for codex, claude code, opencode, pi.
 - [tlbx](https://github.com/tlbx-ai/tlbx) - Self-hosted browser workspace for running Claude Code, Codex, OpenCode, and other CLI agents in parallel across persistent real PTY sessions on your own machines, with control from any browser or phone.
-- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - An RTS-style workspace for managing AI coding agents.
 
@@ -168,7 +166,7 @@ General-purpose assistants you reach through messaging platforms or a desktop/te
 
 ## Resting
 
-A watchlist of projects without a push in the last few months (checked 2026-07-21). They stay here until they're active again, then move back up.
+A watchlist of projects without a push in the last few months (checked 2026-07-28). They stay here until they're active again, then move back up.
 
 - [1code](https://github.com/21st-dev/1code) - UI for Claude Code with local and remote agent execution. _(last commit 2026-03; archived)_
 - [antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command. _(last commit 2026-02)_
@@ -182,6 +180,8 @@ A watchlist of projects without a push in the last few months (checked 2026-07-2
 - [mercury](https://github.com/Michaelliv/mercury) - Personal AI assistant that lives where you chat. _(last commit 2026-03; archived)_
 - [opengoat](https://github.com/marian2js/opengoat) - Build AI autonomous organizations of OpenClaw agents. _(last commit 2026-04)_
 - [ralphy](https://github.com/michaelshimeles/ralphy) - Runs AI agents on tasks until done. _(last commit 2026-02)_
+- [subtask](https://github.com/zippoxer/subtask) - Claude Skill to do tasks with subagents in Git worktrees. _(last commit 2026-04)_
 - [swarm-protocol](https://github.com/phuryn/swarm-protocol) - Headless coordination layer exposed as MCP server: claim work, detect file conflicts, heartbeat, and hand off tasks across agent sessions. _(last commit 2026-03)_
+- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents. _(last commit 2026-04)_
 - [wit](https://github.com/amaar-mc/wit) - Coordination protocol that locks specific functions (not files) via Tree-sitter AST parsing. Agents declare intents, acquire symbol level locks, and get conflict warnings before writing code. _(last commit 2026-03)_
 - [wreckit](https://github.com/mikehostetler/wreckit) - Run Ralph Wiggum Loop over your roadmap. _(last commit 2026-04)_

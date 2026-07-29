@@ -10,6 +10,7 @@ Run and supervise multiple independent coding-agent sessions side-by-side from a
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - A terminal session manager for AI coding agents on Linux and macOS.
 - [agentbox](https://github.com/madarco/agentbox) - Run multiple coding agents in parallel, each teleported into its own sandboxed box (local Docker or cloud VMs via Hetzner/Daytona/Vercel/E2B) with sub-1s checkpoint starts. Works with Claude Code, Codex, and OpenCode.
+- [agterm](https://github.com/umputun/agterm) - Native macOS terminal for organizing and supervising multiple AI coding-agent sessions with named workspaces, a live dashboard, attention states, and a scriptable control API.
 - [amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents in background.
 - [dmux](https://github.com/standardagents/dmux) - Parallel agents with tmux and worktrees.

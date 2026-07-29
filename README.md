@@ -6,6 +6,7 @@ A curated list of tools and frameworks for orchestrating AI coding agents.
 
 Run and supervise multiple independent coding-agent sessions side-by-side from a terminal — tmux panes, git worktrees, and TUI/CLI dashboards.
 
+- [agent-console](https://github.com/buhuipao/agent-console) - Rust TUI that discovers Codex and Claude Code sessions from the providers' own transcripts, including ones started in other terminals, and groups them by workspace with working/waiting/idle/failed status. Resumes the provider's native UI instead of replacing it, keeps same-directory shells beside each agent, and requires neither tmux nor worktrees; on Unix a detached PTY daemon keeps managed sessions alive across dashboard restarts.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - A terminal session manager for AI coding agents on Linux and macOS.
 - [agentbox](https://github.com/madarco/agentbox) - Run multiple coding agents in parallel, each teleported into its own sandboxed box (local Docker or cloud VMs via Hetzner/Daytona/Vercel/E2B) with sub-1s checkpoint starts. Works with Claude Code, Codex, and OpenCode.

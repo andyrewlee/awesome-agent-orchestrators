@@ -105,6 +105,7 @@ Projects implementing the "keep running until done" pattern — a single goal dr
 - [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection.
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Hat-based orchestration that keeps agents in a loop until done.
 - [ralph-tui](https://github.com/subsy/ralph-tui) - Orchestrate AI coding agents to work through task lists autonomously.
+- [ralphex](https://github.com/umputun/ralphex) - Standalone CLI that orchestrates Claude Code or Codex to execute implementation plans autonomously, with fresh sessions per task, validation, retries, multi-phase review, and automatic commits.
 - [toryo](https://github.com/JesseRWeigel/toryo) - Intelligent agent orchestrator with trust-based delegation, quality ratcheting (git commit/revert), and Ralph Loop retries. Chains Claude Code, Aider, Gemini CLI, Ollama.
 
 ## Autonomous Task Runners

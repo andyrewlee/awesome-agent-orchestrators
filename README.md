@@ -27,6 +27,7 @@ The same parallel-sessions workflow delivered as a desktop app or a browser/mobi
 
 - [agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents.
 - [agent-squid](https://github.com/agent-squid/squid) - Your local coding agents, unified in one browser UI with named lanes (#topic@agent), parallel prompting, context sharing across agents, per-prompt token analysis, a realtime quota gauge, and phone/tablet access.
+- [AGI Cockpit](https://github.com/tempi-tech/agi-cockpit) - A cross-platform multi-agent work OS for managing Claude Code, Codex, Cursor, Grok, and terminal tasks in parallel, with mobile PWA supervision and scheduled autoruns on Windows, macOS, and Linux.
 - [AGX](https://github.com/ramarlina/agx) - Local-first agent orchestrator with parallel execution, wake-work-sleep checkpointing, and human-in-the-loop gates.
 - [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - Dashboard for orchestrating Claude, Aider, and Cursor agents across machines.
 - [aizen](https://github.com/vivy-company/aizen) - macOS workspace for managing git worktrees with integrated agent sessions.

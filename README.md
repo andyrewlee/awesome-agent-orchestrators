@@ -38,6 +38,7 @@ The same parallel-sessions workflow delivered as a desktop app or a browser/mobi
 - [clideck](https://github.com/rustykuntz/clideck) - WhatsApp-like dashboard for managing multiple AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) in one browser window. Live status, session resume, autopilot routing between agents, and full control from a phone while away.
 - [cmux](https://github.com/manaflow-ai/cmux) - Open-source platform for running multiple coding agents in parallel.
 - [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - The command center that puts AI coding on steroids.
+- [CodeRyo Studio](https://jason920612.github.io/coderyo-studio-site/) - Desktop control plane for multi-session AI coding agents with zh-TW UX and phone progress mirror (BYO keys).
 - [collaborator](https://github.com/collaborator-ai/collab-public) - A place to create with agents.
 - [CompanyHelm](https://github.com/CompanyHelm/companyhelm) - Distributed multi-agent orchestrator with task management and agent-to-agent conversations
 - [constellagent](https://github.com/owengretzinger/constellagent) - macOS app for running multiple AI agents with their own terminal, editor, and git worktree.

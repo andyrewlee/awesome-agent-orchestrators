@@ -149,6 +149,7 @@ General-purpose assistants you reach through messaging platforms or a desktop/te
 - [denchclaw](https://github.com/DenchHQ/denchclaw) - Managed OpenClaw framework for CRM, sales automation, and outreach agents.
 - [ghostclaw](https://github.com/b1rdmania/ghostclaw) - An AI agent that lives on your computer and works for you.
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you.
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI; agents collaborate, delegate, and build their own tools, mini-apps, and plugins, reachable over Telegram, Slack, Discord, and Matrix. Single container (Bun + SQLite), MIT.
 - [ironclaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired implementation in Rust focused on privacy and security.
 - [lemon](https://github.com/z80dev/lemon) - Local-first assistant and coding agent system.
 - [leon](https://github.com/leon-ai/leon) - Open-source personal assistant with voice and text interfaces.

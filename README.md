@@ -168,6 +168,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - Self-improving harness with persistent cross-session memory and auto-generated skill documents.
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted team of specialized agents with persistent memory that delegate and build their own tools and mini-apps. Telegram, Slack, Discord, Matrix. Single container, MIT.
 - [ironclaw](https://github.com/nearai/ironclaw) - Agent OS in Rust focused on privacy, security, and extensibility.
+- [iva](https://github.com/smixs/iva) - Telegram assistant that turns your messages, voice notes and photos into an Obsidian-compatible markdown vault it remembers across sessions. Crons, skills, MCP and Google Workspace from an in-chat menu. Self-hosted in one command, MIT.
 - [lemon](https://github.com/z80dev/lemon) - Local-first assistant and coding agent runtime.
 - [leon](https://github.com/leon-ai/leon) - Long-running open-source personal assistant with voice and text interfaces.
 - [lobsterai](https://github.com/netease-youdao/LobsterAI) - Desktop-grade agent for data analysis, slides, docs, and web research.

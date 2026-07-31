@@ -51,6 +51,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [constellagent](https://github.com/owengretzinger/constellagent) - macOS app giving each agent its own terminal, editor, and git worktree in a single window.
 - [dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app combining agent orchestration with automations, Kanban management, and MCP servers.
 - [Emdash](https://github.com/generalaction/emdash) - Agentic development environment running parallel agents against any model provider.
+- [Fletch](https://github.com/fwdai/fletch) - Native macOS IDE that seals each agent in its own repo clone under Seatbelt or Docker, serves each a shared symbol and call-graph index over MCP, and gates every step on tests or your approval. Claude Code, Codex, Cursor, OpenCode.
 - [Garcon](https://github.com/cfal/garcon) - Self-hosted browser and mobile workspace with diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers. Seven CLI agents.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Human-in-the-loop control for coding agents on hard problems; the repo notes its code is now largely deprecated in favor of a rebuild.
 - [IM.codes](https://github.com/im4codes/imcodes) - Mobile and web control layer built for away-from-desk continuation, with terminal access, git views, localhost preview, and scheduled tasks. Claude Code, Codex, Gemini CLI.

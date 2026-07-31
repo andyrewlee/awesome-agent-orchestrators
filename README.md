@@ -66,6 +66,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [Ouijit](https://github.com/ouijit/ouijit) - Kanban board and terminals wired together by lifecycle hooks, scripts, and a session-aware CLI, so a task runs by hand, on a script, or delegated to the agent. Per-task worktrees, optional VM sandboxing. Claude Code, Codex, Pi, OpenCode.
 - [parallel-code](https://github.com/johannesjo/parallel-code) - Desktop app running Claude Code, Codex, and Gemini CLI side by side in isolated worktrees, with a built-in diff viewer and one-click merge.
 - [Proliferate](https://github.com/proliferate-ai/proliferate) - Agent IDE that runs sessions locally or in the cloud and lets you build reusable workflows from them.
+- [qm](https://github.com/yc-software/qm) - Multiplayer harness where each teammate gets an isolated workspace to run agents independently, driven from Slack or the web.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS command center for worktree-per-agent development.
 - [superset](https://github.com/superset-sh/superset) - Code editor built around running many agents on your machine at once.
 - [synara](https://github.com/Emanuele-web04/synara) - GUI desktop workspace for running and managing agents across local projects.

@@ -72,6 +72,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [synara](https://github.com/Emanuele-web04/synara) - GUI desktop workspace for running and managing agents across local projects.
 - [t3code](https://github.com/pingdotgg/t3code) - Harness control surface available as web, mobile, and desktop app. Claude Code, Codex, Cursor, Grok Build, OpenCode.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge that puts Codex, Claude Code, OpenCode, and Pi sessions in a chat thread.
+- [Tempest](https://github.com/tempestai-dev/tempest) - Tauri desktop ADE running CLI agents in parallel isolated worktrees, with a shared local code-knowledge graph that cuts token use across sessions, plus live status and built-in diff/PR review.
 - [tlbx](https://github.com/tlbx-ai/tlbx) - Self-hosted browser workspace holding persistent real PTY sessions on your own machines, reachable from any browser or phone.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - One git worktree per agent, delivered as desktop, web, and CLI.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - RTS-style workspace for commanding coding agents.

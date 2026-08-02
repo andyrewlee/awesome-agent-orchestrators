@@ -183,6 +183,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [nanoclaw](https://github.com/nanocoai/nanoclaw) - Lightweight OpenClaw alternative running in containers, connecting to WhatsApp, Telegram, Slack, Discord, and Gmail.
 - [nullclaw](https://github.com/nullclaw/nullclaw) - Fully autonomous assistant infrastructure written in Zig.
 - [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant, on any OS and any platform.
+- [Ouroboros](https://github.com/razzant/ouroboros) - General-purpose agent with durable identity and memory, reviewed self-modification, multi-agent coordination, and desktop and headless interfaces.
 - [picoclaw](https://github.com/sipeed/picoclaw) - Tiny and fast assistant deployable anywhere.
 - [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Personal assistant that deploys to your own machine or the cloud and plugs into multiple chat apps. Formerly CoPaw.
 - [rho](https://github.com/mikeyobrien/rho) - Stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android.

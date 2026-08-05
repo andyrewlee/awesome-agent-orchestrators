@@ -1,6 +1,6 @@
 # Awesome Agent Orchestrators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of tools and frameworks for orchestrating AI coding agents.
+A curated list of tools and frameworks for orchestrating agents.
 
 Everything here decides what an agent works on, when it runs, where it runs, or what happens to its output, and takes whatever task you point it at. Single-purpose bots, and things an agent merely consumes — memory backends, MCP servers, sandbox providers, skill libraries — are out of scope.
 
@@ -170,6 +170,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 
 - [assistant](https://github.com/kcosr/assistant) - Panel-based assistant whose plugins share one workspace of notes, lists, and objects.
 - [automata](https://github.com/sentientwave/automata) - Matrix-native workspace where Temporal-backed durable workflows survive restarts and keep long tasks moving.
+- [Cloudflare OS](https://github.com/cloudflare/cloudflare-os) - Self-hostable "company OS" on Cloudflare Workers: a chat UI where agents preloaded with your company context do tasks, build sandboxed apps, and stay inside a Gatekeepers guardrail framework.
 - [Coworker](https://github.com/accomplish-ai/coworker) - Open source AI coworker that lives on your desktop. Formerly accomplish.
 - [denchclaw](https://github.com/DenchHQ/DenchClaw) - Managed OpenClaw framework aimed at CRM, sales automation, and outreach.
 - [ghostclaw](https://github.com/b1rdmania/ghostclaw) - An AI that lives on your computer and does things for you.

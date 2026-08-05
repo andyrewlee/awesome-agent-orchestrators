@@ -42,6 +42,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [aizen](https://github.com/vivy-company/aizen) - macOS workspace that organizes worktrees, environments, and agent sessions per project.
 - [Aperant](https://github.com/AndyMik90/Aperant) - Runs up to 12 agent terminals with a self-validating QA loop and automatic conflict resolution when merging back to main.
 - [automaker](https://github.com/AutoMaker-Org/automaker) - Describe features on a Kanban board and agents implement them in isolated worktrees, running tests and committing as they go.
+- [bb](https://github.com/get-bb/bb) - Self-controlling agentic IDE that orchestrates multiple coding agents in live threads you can follow, steer, or hand off, driven from a desktop app, web app, CLI, or HTTP API.
 - [Better Agent](https://github.com/ofekron/better-agent) - Local web workspace with persistent state, approvals, and restart recovery for native Claude, Codex, and Gemini sessions.
 - [Claude Command Center (CCC)](https://github.com/amirfish1/claude-command-center) - Local dashboard for spawning, monitoring, and resuming sessions across Claude Code, Codex, Cursor, Antigravity, and Kilo Code.
 - [clave](https://github.com/codika-io/clave) - Native macOS app with split and grid layouts, session groups, SSH remote sessions, and usage analytics for Claude Code.

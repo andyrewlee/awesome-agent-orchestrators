@@ -49,6 +49,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - Desktop and web workspace around the OpenCode CLI whose SideCars embed local tools like VS Code and terminals as tabs.
 - [collaborator](https://github.com/collabs-inc/collab-public) - Arranges terminals, editors, and files as tiles on an infinite pan-and-zoom canvas instead of tabs.
 - [constellagent](https://github.com/owengretzinger/constellagent) - macOS app giving each agent its own terminal, editor, and git worktree in a single window.
+- [diri](https://github.com/cristicretu/diri) - Native macOS app running Claude Code, Codex, Cursor, Gemini, and shells in parallel across git worktrees or remote hosts, with live status, session persistence across restarts, a menu-bar rollup, and an MCP server for agents to spawn others.
 - [dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app combining agent orchestration with automations, Kanban management, and MCP servers.
 - [Emdash](https://github.com/generalaction/emdash) - Agentic development environment running parallel agents against any model provider.
 - [Fletch](https://github.com/fwdai/fletch) - Native macOS IDE that seals each agent in its own repo clone under Seatbelt or Docker, serves each a shared symbol and call-graph index over MCP, and gates every step on tests or your approval. Claude Code, Codex, Cursor, OpenCode.

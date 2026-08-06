@@ -133,6 +133,7 @@ Unattended agents driven by an external source — an issue queue, a work board,
 - [centaur](https://github.com/paradigmxyz/centaur) - Multiplayer self-hosted agents with Slack-native conversations, Kubernetes sandboxes, shared tools, and durable workflows.
 - [claude-code-action](https://github.com/anthropics/claude-code-action) - Anthropic's official GitHub Action, detecting from context whether to answer, review, or implement. Auth via Anthropic API, Bedrock, Vertex, or Foundry.
 - [codex-action](https://github.com/openai/codex-action) - OpenAI's official GitHub Action, running Codex CLI headlessly under drop-sudo, unprivileged-user, or fully read-only sandboxes.
+- [Contrabass](https://github.com/junhoyeo/contrabass) - Terminal-first orchestrator for issue-driven agent runs, pulling work from Linear, GitHub Issues, or a local board into git worktrees with TUI, headless, and dashboard modes.
 - [cyrus](https://github.com/cyrusagents/cyrus) - Watches Linear, GitHub, GitLab, and Slack issues assigned to it, spinning up an isolated worktree per issue. Claude Code, Codex, Cursor, Gemini.
 - [Factory](https://github.com/owainlewis/factory) - Keeps coding agents working on a repository without making a human orchestrate every step from a terminal, pulling tasks from trusted ticket queues into isolated Codex workspaces.
 - [gh-aw](https://github.com/github/gh-aw) - Compiles agentic workflows written in Markdown into GitHub Actions YAML. Read-only by default, with writes only through sanitized safe-outputs. Copilot, Claude, Codex, Gemini.

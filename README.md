@@ -40,6 +40,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [AGX](https://github.com/ramarlina/agx) - Wake-work-sleep checkpointing keeps a persistent agent team on long objectives, with human gates between cycles.
 - [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - Dashboard spanning multiple machines, adding memory search, code-graph queries, and agent-to-agent messaging. Claude, Aider, Cursor.
 - [aizen](https://github.com/vivy-company/aizen) - macOS workspace that organizes worktrees, environments, and agent sessions per project.
+- [Alethe](https://github.com/Kc1t/alethe-agents) - Local-first desktop workspace where agents and shells run as real PTYs in split panes and custom grids across projects, surviving pane close and app restart. Suspend idle groups to reclaim memory and resume with scrollback intact. Claude Code, Codex, OpenCode.
 - [Aperant](https://github.com/AndyMik90/Aperant) - Runs up to 12 agent terminals with a self-validating QA loop and automatic conflict resolution when merging back to main.
 - [automaker](https://github.com/AutoMaker-Org/automaker) - Describe features on a Kanban board and agents implement them in isolated worktrees, running tests and committing as they go.
 - [bb](https://github.com/get-bb/bb) - Self-controlling agentic IDE that orchestrates multiple coding agents in live threads you can follow, steer, or hand off, driven from a desktop app, web app, CLI, or HTTP API.

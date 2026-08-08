@@ -100,6 +100,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [kodo](https://github.com/ikamensh/kodo) - Directs agents through work cycles where a separate agent independently verifies each result. Claude Code, Codex, Gemini CLI.
 - [loki-mode](https://github.com/asklokesh/loki-mode) - PRD-to-deployed-product SDLC with 41 agents in 8 swarms, nine quality gates, and blind three-reviewer code review. Source-available under BUSL-1.1.
 - [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Shogun to karo to ashigaru hierarchy running up to 10 agents over tmux with no coordination API cost.
+- [NXTG-Forge Orchestrator](https://github.com/nxtg-ai/forge-orchestrator) - Coordinates Claude Code, Codex, and Gemini CLI on one shared repo through a research-plan-delegate-adversarial-verify-deploy pipeline, with file locking, knowledge capture, and drift detection. Single Rust binary.
 - [orc](https://github.com/spencermarx/orc) - Lightweight framework that piggybacks your existing CLI setup for planning, task decomposition, worktrees, and review.
 - [ORCH](https://github.com/oxgeneral/ORCH) - CLI runtime managing agents as typed teams with an explicit state machine and goals. Claude Code, Codex, Cursor.
 - [Orkas](https://github.com/Orkas-AI/Orkas) - A commander agent decomposes goals and dispatches specialists with isolated skills and memory. Claude Code, Codex, OpenCode, Cline.

@@ -163,6 +163,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [NemoClaw](https://github.com/NVIDIA/NemoClaw) - Runs Hermes, LangChain Deep Agents, and OpenClaw inside NVIDIA OpenShell with managed inference.
 - [neuralyzer](https://github.com/gintasz/neuralyzer) - Lets an agent wipe its own session context and re-run the first message, making Ralph loops easier to engineer.
 - [omnigent](https://github.com/omnigent-ai/omnigent) - Meta-harness running Claude Code, Codex, Cursor, OpenCode, Hermes, Pi, or custom YAML agents against swappable sandbox backends, with policy enforcement.
+- [Open Multi-Agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript-native runtime where a coordinator turns a goal into a task DAG and a deterministic scheduler runs specialized agents, with approvals, traces, evaluation, checkpoints, and resume support.
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source agent operating system.
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Daemon, HTTP/SSE API, and TypeScript SDK for driving six coding agents inside E2B, Daytona, Modal, Cloudflare Containers, or Docker.
 - [skillfold](https://github.com/byronxlg/skillfold) - Declares skills in YAML and pins exact revisions in a lockfile so installs are reproducible across Claude Code and Codex.

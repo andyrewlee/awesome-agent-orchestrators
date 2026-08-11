@@ -2,6 +2,9 @@
   - README.md
 -->
 
+> Tradução para português (pt-BR) por [kernelpenguin](https://github.com/kernelpenguin) — 2026-08-11.
+> Fonte: `README.md` (commit `4f36a4b`). Em caso de divergência, o original em inglês prevalece.
+
 # Awesome Agent Orchestrators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Uma lista curada de ferramentas e frameworks para orquestrar agentes.

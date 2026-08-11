@@ -80,6 +80,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [Traycer](https://github.com/traycerai/traycer) - Bring-your-own-agent workspace running many sessions in parallel with context shared across models and providers, plus agent-to-agent messaging, shareable boards, and cross-device sync.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - One git worktree per agent, delivered as desktop, web, and CLI.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - RTS-style workspace for commanding coding agents.
+- [Vigil](https://github.com/butterlatte-zhang/vigil) - Native macOS terminal where a manager agent runs the tree — spawning workers and sub-managers, detail flowing down, summaries rolling up — while every node stays the CLI's own TUI you can take over. Claude Code, Codex, OpenCode.
 
 ## Multi-Agent Swarms
 

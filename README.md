@@ -96,6 +96,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Workspace for mixing different vendors' CLI agents in one visible collaboration session.
 - [ClawTeam](https://github.com/HKUDS/ClawTeam) - Agents spawn and manage their own teammates from one command, coordinating through file-based or P2P inboxes across tmux worktrees.
 - [CompanyHelm](https://github.com/CompanyHelm/companyhelm) - Distributed orchestrator with task management and direct agent-to-agent conversations.
+- [corellis](https://github.com/CorellisOrg/corellis) - Multi-agent governance framework for OpenClaw — goal decomposition, fleet-wide memory, correction propagation, and approval workflows for 20+ agent fleets.
 - [Fusion](https://github.com/Runfusion/Fusion) - Multi-node orchestrator with a kanban board, plan-review-execute gates, per-task worktrees, and hierarchical missions.
 - [gastown](https://github.com/gastownhall/gastown) - Scales to 20-30 agents with a coordinator, git-backed issue tracking, health watchdogs, and a Bors-style merge queue.
 - [hcom](https://github.com/aannoo/hcom) - Lets agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity, Cursor, OpenCode, Kilo, and more.

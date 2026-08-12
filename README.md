@@ -117,6 +117,7 @@ The "keep running until done" pattern — a single goal driven through a retry-u
 - [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Keeps no model in the coordination loop, so orchestration costs zero tokens. Verifies with tests and auto-commits across 40+ CLI agents.
 - [Dex](https://github.com/francescoalemanno/dex) - Human-gated planning, multi-reviewer code review, and dead-end-aware research loops, shipped as cross-platform binaries for 7 CLI backends.
 - [fractal](https://github.com/plasma-ai/fractal) - Loops that recursively delegate separable subtasks to child agents, bounded by configurable depth, cost, and time limits.
+- [Loop Engineering](https://github.com/cobusgreyling/loop-engineering) - Designs repeatable coding-agent loops around automation, worktrees, skills, state, and verification, with starters and a Loop Ready score for Grok, Claude Code, Codex, and OpenCode.
 - [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - An LLM council plans the work, then Ralph-style loops retry failed units with fresh context. Executes via OpenCode worktrees.
 - [MartinLoop](https://github.com/Keesan12/martin-loop) - Caps spend, enforces policy, verifies output, and rolls back failures, leaving inspectable run receipts.
 - [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Development loop for Claude Code with exit detection that recognizes when the work is actually finished.

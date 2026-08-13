@@ -50,6 +50,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [clideck](https://github.com/rustykuntz/clideck) - Chat-app-style dashboard with autopilot routing between agents and full control from a phone. Claude Code, Codex, Gemini CLI, OpenCode.
 - [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - Desktop and web workspace around the OpenCode CLI whose SideCars embed local tools like VS Code and terminals as tabs.
 - [collaborator](https://github.com/collabs-inc/collab-public) - Arranges terminals, editors, and files as tiles on an infinite pan-and-zoom canvas instead of tabs.
+- [Comet](https://github.com/zeronsh/comet) - Cross-device control plane for coding agents, syncing sessions across machines and keeping agents running on an always-on daemon. Claude Code, Codex, Cursor, Grok, Hermes, Pi.
 - [constellagent](https://github.com/owengretzinger/constellagent) - macOS app giving each agent its own terminal, editor, and git worktree in a single window.
 - [diri](https://github.com/cristicretu/diri) - Native macOS app running Claude Code, Codex, Cursor, Gemini, and shells in parallel across git worktrees or remote hosts, with live status, session persistence across restarts, a menu-bar rollup, and an MCP server for agents to spawn others.
 - [dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app combining agent orchestration with automations, Kanban management, and MCP servers.

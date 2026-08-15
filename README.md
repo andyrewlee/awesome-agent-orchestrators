@@ -18,6 +18,7 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 
 - [agent-console](https://github.com/buhuipao/agent-console) - Rust TUI that finds Codex and Claude Code sessions from the providers' own transcripts, including ones started elsewhere, and resumes their native UI rather than replacing it. No tmux or worktrees.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - One TUI covering sessions across Claude Code, Codex, Gemini, and OpenCode, with live status and resume for each.
+- [agent-manager](https://github.com/YoanWai/agent-manager) - tmux TUI with live status, a prompt that lands in the pane without attaching, and in-terminal diff review that sends line comments back to the agent. Claude Code, Codex, OpenCode, Grok, Gemini CLI, Pi, Hermes.
 - [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Pairs a TUI with a matching web view, so the same sessions stay reachable from a phone. Claude Code, Codex, OpenCode, Gemini, Mistral Vibe.
 - [agentbox](https://github.com/madarco/agentbox) - Gives each agent its own sandboxed VM — local Docker or cloud via Hetzner, Daytona, Vercel, or E2B — with sub-second checkpoint starts.
 - [agterm](https://github.com/umputun/agterm) - Native macOS terminal with named workspaces, a live dashboard, attention states, and a scriptable control API.

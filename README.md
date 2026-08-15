@@ -131,6 +131,7 @@ The "keep running until done" pattern — a single goal driven through a retry-u
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Hat-based orchestration that keeps agents looping until done, as a fuller implementation of the Ralph Wiggum technique.
 - [ralph-tui](https://github.com/subsy/ralph-tui) - Drives an agent through a task list autonomously, with a TUI for watching the loop.
 - [ralphex](https://github.com/umputun/ralphex) - Executes an implementation plan autonomously with a fresh session per task, plus validation, retries, multi-phase review, and automatic commits. Claude Code, Codex.
+- [Sudarshan](https://github.com/Suraj1235/sudarshan-superharness) - Drives any LLM API or bridged agent CLI from an idea, PRD, or spec to verification-gated completion, with pre-run cost estimates, budget ceilings, and durable checkpoints that survive process kills and rate limits.
 - [toryo](https://github.com/JesseRWeigel/toryo) - Trust-based delegation with quality ratcheting that commits improvements and reverts regressions. Chains Claude Code, Aider, Gemini CLI, Ollama.
 
 ## Autonomous Task Runners

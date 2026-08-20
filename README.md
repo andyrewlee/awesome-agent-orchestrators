@@ -123,6 +123,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 The "keep running until done" pattern — a single goal driven through a retry-until-verified loop.
 
 - [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Keeps no model in the coordination loop, so orchestration costs zero tokens. Verifies with tests and auto-commits across 40+ CLI agents.
+- [cc-autopilot](https://github.com/gbotev1/cc-autopilot) - Perpetual quality loop whose judge panel audits the project, files its own work, and refills the board when it drains. Sole-writer fixers own file-disjoint slices proven by construction, and nothing commits without passing live verification, with failures reverted. Claude Code.
 - [Dex](https://github.com/francescoalemanno/dex) - Human-gated planning, multi-reviewer code review, and dead-end-aware research loops, shipped as cross-platform binaries for 7 CLI backends.
 - [fractal](https://github.com/plasma-ai/fractal) - Loops that recursively delegate separable subtasks to child agents, bounded by configurable depth, cost, and time limits.
 - [Loop Engineering](https://github.com/cobusgreyling/loop-engineering) - Designs repeatable coding-agent loops around automation, worktrees, skills, state, and verification, with starters and a Loop Ready score for Grok, Claude Code, Codex, and OpenCode.

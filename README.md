@@ -50,6 +50,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [Claude Command Center (CCC)](https://github.com/amirfish1/claude-command-center) - Local dashboard for spawning, monitoring, and resuming sessions across Claude Code, Codex, Cursor, Antigravity, and Kilo Code.
 - [clave](https://github.com/codika-io/clave) - Native macOS app with split and grid layouts, session groups, SSH remote sessions, and usage analytics for Claude Code.
 - [clideck](https://github.com/rustykuntz/clideck) - Chat-app-style dashboard with autopilot routing between agents and full control from a phone. Claude Code, Codex, Gemini CLI, OpenCode.
+- [CodeAgentSwarm](https://www.codeagentswarm.com) - Desktop workspace for running Claude Code, Codex CLI, and Antigravity agents in parallel supervised terminals, with attention notifications, searchable session history, per-terminal diffs, and an MCP-backed kanban board.
 - [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - Desktop and web workspace around the OpenCode CLI whose SideCars embed local tools like VS Code and terminals as tabs.
 - [collaborator](https://github.com/collabs-inc/collab-public) - Arranges terminals, editors, and files as tiles on an infinite pan-and-zoom canvas instead of tabs.
 - [Comet](https://github.com/zeronsh/comet) - Cross-device control plane for coding agents, syncing sessions across machines and keeping agents running on an always-on daemon. Claude Code, Codex, Cursor, Grok, Hermes, Pi.

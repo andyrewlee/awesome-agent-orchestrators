@@ -72,6 +72,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [octomux](https://github.com/ShreyPaharia/octomux) - Local dashboard with a kanban fleet view, one unified permission inbox across agents, and in-app diff review.
 - [OpenChamber](https://github.com/openchamber/openchamber) - Open-source workspace for running, supervising, and reviewing AI coding work across desktop, browser, editor, and mobile, with parallel model runs and per-run worktrees.
 - [Orca](https://github.com/stablyai/orca) - Agentic development environment for running a fleet on your own subscription, available on desktop and mobile.
+- [Paseo](https://github.com/getpaseo/paseo) - Self-hosted daemon running agents in parallel on your own machines, driven from desktop, iOS/Android, web, or CLI, with voice control, diff review, and no telemetry or forced log-ins. Claude Code, Codex, Copilot, OpenCode, Pi.
 - [Ouijit](https://github.com/ouijit/ouijit) - Kanban board and terminals wired together by lifecycle hooks, scripts, and a session-aware CLI, so a task runs by hand, on a script, or delegated to the agent. Per-task worktrees, optional VM sandboxing. Claude Code, Codex, Pi, OpenCode.
 - [parallel-code](https://github.com/johannesjo/parallel-code) - Desktop app running Claude Code, Codex, and Gemini CLI side by side in isolated worktrees, with a built-in diff viewer and one-click merge.
 - [Proliferate](https://github.com/proliferate-ai/proliferate) - Agent IDE that runs sessions locally or in the cloud and lets you build reusable workflows from them.

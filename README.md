@@ -4,6 +4,10 @@ A curated list of tools and frameworks for orchestrating agents.
 
 Everything here decides what an agent works on, when it runs, where it runs, or what happens to its output, and takes whatever task you point it at. Single-purpose bots, and things an agent merely consumes — memory backends, MCP servers, sandbox providers, skill libraries — are out of scope.
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for inclusion criteria, categories, and the PR checklist.
+
 ## How to choose
 
 - **Run several agents at once and review each diff.** [Terminal](#parallel-coding-agents--terminal-tuicli) if you live in tmux, [Desktop & Web](#parallel-coding-agents--desktop--web) if you want a GUI or phone access.

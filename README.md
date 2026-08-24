@@ -157,6 +157,7 @@ Unattended agents driven by an external source — an issue queue, a work board,
 - [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - Google's official GitHub Action, running on event or schedule triggers or on demand via `@gemini-cli /review` and `/triage`.
 - [sortie](https://github.com/sortie-ai/sortie) - Turns tracker tickets into agent sessions. Agent-agnostic and tracker-agnostic, as a single Go binary with SQLite persistence.
 - [symphony](https://github.com/openai/symphony) - Turns project work into isolated autonomous runs, so teams manage the work rather than supervise the agent.
+- [Taskuary](https://github.com/ldbumble/taskuary) - Local-first work inbox that triages email, chat, issue trackers, and scheduled reports into supervised Claude Code, Codex, Gemini, Cursor, or Copilot CLI runs, with conflict-aware queuing, live terminals, and approval-gated replies.
 
 ## Agent Infrastructure & Primitives
 

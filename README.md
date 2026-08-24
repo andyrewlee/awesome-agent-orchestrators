@@ -26,7 +26,7 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Runs each agent as a detached background session with its own worktree, so work continues after you close the pane. Claude Code, Codex, OpenCode, Amp.
 - [cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and per-agent notifications, built for keeping many concurrent sessions legible.
 - [dmux](https://github.com/standardagents/dmux) - Dev agent multiplexer pairing coding agents with git worktrees over tmux.
-- [herdr](https://github.com/ogulcancelik/herdr) - Agent-aware multiplexer with persistent workspaces, tabs, panes, and status detection for CLI coding agents.
+- [herdr](https://github.com/herdrdev/herdr) - Background runtime that owns your agents' terminals: sessions survive reboot and reattach from any terminal or SSH, panes are marked working/blocked/idle, and agents themselves spawn panes and prompt each other over a CLI and socket API. One Rust binary.
 - [openkanban](https://github.com/TechDufus/openkanban) - Kanban board for orchestrating coding agents, rendered entirely in the terminal.
 - [repomon](https://github.com/AliHamzaAzam/repomon) - Rust TUI that supervises a fleet across many repositories at once, in durable tmux sessions you can approve from your phone.
 - [thurbox](https://github.com/Thurbeen/thurbox) - TUI orchestrator with remote SSH sessions, inter-session messaging, and a native code-review view. Works with any CLI agent you define.

@@ -176,6 +176,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [LionClaw](https://github.com/moshthepitt/lionclaw) - Local control plane running coding agents as durable, auditable workers with explicit state, skills, and checkpoints.
 - [NemoClaw](https://github.com/NVIDIA/NemoClaw) - Runs Hermes, LangChain Deep Agents, and OpenClaw inside NVIDIA OpenShell with managed inference.
 - [neuralyzer](https://github.com/gintasz/neuralyzer) - Lets an agent wipe its own session context and re-run the first message, making Ralph loops easier to engineer.
+- [Okto Nexus](https://github.com/OktoLabsAI/okto-nexus) - Local-first MCP coordination hub giving agents durable identities, messaging, single-winner handoff claims, and governance (policies, guardrails, human approval), all from one hub with no cloud broker.
 - [omnigent](https://github.com/omnigent-ai/omnigent) - Meta-harness running Claude Code, Codex, Cursor, OpenCode, Hermes, Pi, or custom YAML agents against swappable sandbox backends, with policy enforcement.
 - [Open Multi-Agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript-native runtime where a coordinator turns a goal into a task DAG and a deterministic scheduler runs specialized agents, with approvals, traces, evaluation, checkpoints, and resume support.
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source agent operating system.

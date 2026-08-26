@@ -152,6 +152,7 @@ Unattended agents driven by an external source — an issue queue, a work board,
 - [gh-aw](https://github.com/github/gh-aw) - Compiles agentic workflows written in Markdown into GitHub Actions YAML. Read-only by default, with writes only through sanitized safe-outputs. Copilot, Claude, Codex, Gemini.
 - [lalph](https://github.com/tim-smart/lalph) - Orchestrator driven by whichever source of issues you point it at.
 - [multica](https://github.com/multica-ai/multica) - Managed agents platform where you assign tasks, track progress, and let agents compound skills between runs.
+- [NEEDLE](https://github.com/jedarden/NEEDLE) - Runs unattended against a shared bead queue (SQLite, atomic claims), dispatching each bead to a headless CLI — Claude Code, Codex, OpenCode, Aider — with every outcome routed through an explicit state machine; no inter-agent channel, coordination is done at decomposition time.
 - [open-swe](https://github.com/langchain-ai/open-swe) - Invoked from Slack, Linear, or GitHub comments; each task runs in its own cloud sandbox and ends in a draft PR linked to the ticket.
 - [OpenHands](https://github.com/OpenHands/OpenHands) - Self-hostable control center running its own agent or driving Claude Code, Codex, and any Agent Client Protocol agent, on schedules or webhooks.
 - [remote-swe-agents](https://github.com/aws-samples/remote-swe-agents) - Serverless control plane on Lambda with a dedicated EC2 worker per session, triggered by issue comments, assignments, and PR reviews.

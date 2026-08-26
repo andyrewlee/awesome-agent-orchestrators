@@ -84,6 +84,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge that puts Codex, Claude Code, OpenCode, and Pi sessions in a chat thread.
 - [Tempest](https://github.com/tempestai-dev/tempest) - Tauri desktop ADE running CLI agents in parallel isolated worktrees, with a shared local code-knowledge graph that cuts token use across sessions, plus live status and built-in diff/PR review.
 - [tlbx](https://github.com/tlbx-ai/tlbx) - Self-hosted browser workspace holding persistent real PTY sessions on your own machines, reachable from any browser or phone.
+- [Tortie](https://github.com/gregce/tortie) - Native macOS agent multiplexer with familiar IDE features: all projects in one window, agents that survive restarts, and organized terminal sessions without tmux.
 - [Traycer](https://github.com/traycerai/traycer) - Bring-your-own-agent workspace running many sessions in parallel with context shared across models and providers, plus agent-to-agent messaging, shareable boards, and cross-device sync.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - One git worktree per agent, delivered as desktop, web, and CLI.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - RTS-style workspace for commanding coding agents.

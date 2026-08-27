@@ -70,6 +70,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [mux](https://github.com/coder/mux) - Desktop app for isolated, parallel agentic development.
 - [nimbalyst](https://github.com/nimbalyst/nimbalyst) - Visual workspace pairing parallel worktree sessions with kanban and direct visual editing. Claude Code, Codex, OpenCode.
 - [octomux](https://github.com/ShreyPaharia/octomux) - Local dashboard with a kanban fleet view, one unified permission inbox across agents, and in-app diff review.
+- [omg.dev](https://github.com/BennyKok/omg.dev) - Open-source parallel-agent harness: run coding agents on your own computer or a hosted one, controlled from a single web UI with a mobile client. Claude Code, Codex, Grok, Cursor, OpenCode, Copilot, Pi.
 - [OpenChamber](https://github.com/openchamber/openchamber) - Open-source workspace for running, supervising, and reviewing AI coding work across desktop, browser, editor, and mobile, with parallel model runs and per-run worktrees.
 - [Open Session](https://github.com/tellahq/opensession) - Self-hosted server driving coding sessions in git worktrees on your own box or in isolated sandboxes, with a web UI, Slack/Linear/Plain/GitHub intake, diff and PR review, and multiple Codex and Claude subscriptions.
 - [Orca](https://github.com/stablyai/orca) - Agentic development environment for running a fleet on your own subscription, available on desktop and mobile.

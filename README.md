@@ -195,6 +195,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [automata](https://github.com/sentientwave/automata) - Matrix-native workspace where Temporal-backed durable workflows survive restarts and keep long tasks moving.
 - [Cloudflare OS](https://github.com/cloudflare/cloudflare-os) - Self-hostable "company OS" on Cloudflare Workers: a chat UI where agents preloaded with your company context do tasks, build sandboxed apps, and stay inside a Gatekeepers guardrail framework.
 - [Coworker](https://github.com/accomplish-ai/coworker) - Open source AI coworker that lives on your desktop. Formerly accomplish.
+- [Overlay](https://github.com/LayerNorm/overlay-web) - Open-source workspace where humans and agents share context — knowledge, files, memory, connected apps — so you delegate repeatable work to agents, review what they produce, and take action through tools, provider-neutral.
 - [denchclaw](https://github.com/DenchHQ/DenchClaw) - Managed OpenClaw framework aimed at CRM, sales automation, and outreach.
 - [ghostclaw](https://github.com/b1rdmania/ghostclaw) - An AI that lives on your computer and does things for you.
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - Self-improving harness with persistent cross-session memory and auto-generated skill documents.

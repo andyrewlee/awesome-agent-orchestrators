@@ -219,6 +219,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Personal assistant that deploys to your own machine or the cloud and plugs into multiple chat apps. Formerly CoPaw.
 - [Rakazo](https://github.com/elie222/rakazo) - Self-hosted platform for persistent AI teammates with their own conversations, memory, and routines, running on shared team computers or isolated private ones, reachable from web, desktop, and mobile with voice mode. Bots delegate to peer bots or short-lived subagents. BYO model and sandbox.
 - [rho](https://github.com/mikeyobrien/rho) - Stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android.
+- [row-bot](https://github.com/siddsachar/row-bot) - Local-first desktop assistant that reasons through messy context, orchestrates tools and providers, and works inside your files, repos, and channels — durable memory, scheduled tasks, voice, visible browser automation, and parent-led child agents for research, review, and implementation. Runs on Ollama or opt-in cloud models. Formerly Thoth.
 - [rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker with memory.
 - [zclaw](https://github.com/tnm/zclaw) - Complete personal assistant in 888 KiB, running on an ESP32 with GPIO, cron, and custom tools.
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, fully autonomous assistant infrastructure in Rust, deployable anywhere.

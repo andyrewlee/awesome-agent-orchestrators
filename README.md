@@ -97,8 +97,8 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 
 Systems where multiple specialized agents actively coordinate, communicate, and delegate toward a shared goal.
 
-- [5dive](https://github.com/5dive-ai/5dive) - Named agents on a shared org chart and backlog hand work to each other and escalate to a human over Telegram. Claude Code, Codex, Grok, Antigravity, OpenCode.
 - [Agent Teams](https://github.com/777genius/agent-teams-ai) - You're the boss; agents are your team. They handle tasks on their own, message each other, and review each other's work while you steer from a Kanban board. Supports Codex, Claude Code, OpenCode, Cursor, Grok, GitHub Copilot, Kiro, Z.AI, MiniMax, Kimi, 200+ models, 75+ LLM providers, and free models with no authentication. Build your AI company with multiple teams.
+- [5dive](https://github.com/5dive-ai/5dive) - Named agents on a shared org chart and backlog hand work to each other and escalate to a human over Telegram. Claude Code, Codex, Grok, Antigravity, OpenCode.
 - [agent-kanban](https://github.com/saltbo/agent-kanban) - Leader-worker task board with cryptographic agent identity. Claude Code, Codex, Gemini CLI.
 - [agentsmesh](https://github.com/AgentsMesh/AgentsMesh) - Remote AI workstations with PTY sandboxes and worktree isolation, coordinating across channels and pod bindings. Claude Code, Codex, Gemini CLI, Aider, OpenCode.
 - [Agon](https://github.com/AutoResearch-Factory/Agon) - Orchestrates scientist, coder, and auditor loops from research topic through proposal to experiment.

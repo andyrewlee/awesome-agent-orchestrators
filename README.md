@@ -23,6 +23,7 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 - [agentbox](https://github.com/madarco/agentbox) - Gives each agent its own sandboxed VM — local Docker or cloud via Hetzner, Daytona, Vercel, or E2B — with sub-second checkpoint starts.
 - [agterm](https://github.com/umputun/agterm) - Native macOS terminal with named workspaces, a live dashboard, attention states, and a scriptable control API.
 - [amux](https://github.com/andyrewlee/amux) - Minimal TUI for spawning parallel coding agents in git worktrees.
+- [canopy](https://github.com/UniverLab/harness-canopy) - Rust TUI with parallel agent sessions, plus multi-agent sync, autonomous loop DAG engine, cron-scheduled and file-watcher background agents, a project-scoped knowledge graph, and personal RAG pipeline. 64 MCP tools, SQLite + LanceDB persistence.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Runs each agent as a detached background session with its own worktree, so work continues after you close the pane. Claude Code, Codex, OpenCode, Amp.
 - [cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and per-agent notifications, built for keeping many concurrent sessions legible.
 - [dmux](https://github.com/standardagents/dmux) - Dev agent multiplexer pairing coding agents with git worktrees over tmux.

@@ -144,6 +144,7 @@ The "keep running until done" pattern — a single goal driven through a retry-u
 
 Unattended agents driven by an external source — an issue queue, a work board, or a schedule — that run and sync state back without side-by-side supervision.
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Runs natural-language web and mobile test suites through a self-healing execution loop, persists memory between runs, and exposes a dashboard, CLI, MCP server, and coding-agent skills.
 - [aeon](https://github.com/aeonfun/aeon) - Runs unattended on GitHub Actions; dispatches skills to six coding-agent harnesses behind one contract (Claude Code, Grok, Codex, Pi, Vibe, Kimi), with quality scoring, git-persisted memory, a self-healing loop, and reactive triggers.
 - [background-agents](https://github.com/ColeMurray/background-agents) - Sessions trigger from a web UI, Slack, GitHub, Linear, webhooks, or cron, run in Modal, Daytona, Vercel, E2B, or OpenComputer sandboxes, and open attributed PRs.
 - [centaur](https://github.com/paradigmxyz/centaur) - Multiplayer self-hosted agents with Slack-native conversations, Kubernetes sandboxes, shared tools, and durable workflows.

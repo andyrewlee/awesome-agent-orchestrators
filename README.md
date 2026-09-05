@@ -191,6 +191,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Daemon, HTTP/SSE API, and TypeScript SDK for driving six coding agents inside E2B, Daytona, Modal, Cloudflare Containers, or Docker.
 - [skillfold](https://github.com/byronxlg/skillfold) - Declares skills in YAML and pins exact revisions in a lockfile so installs are reproducible across Claude Code and Codex.
 - [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Portable Markdown definitions that route a task to a chosen backend, model, effort level, and permission set.
+- [Vibestrate](https://github.com/guyshonshon/vibestrate) - Runs one task through a YAML flow of seated phases, giving every seat the same project rules, auto-derived codebase map, and running brief, while the reviewer starts a fresh process rather than inheriting the writer's session. Approval gates, a git worktree per run, and a local token and cost ledger. Claude Code, Codex, Gemini CLI, OpenCode, Aider, Cursor CLI, Amp, Goose, Crush, Qwen Code, Ollama.
 
 ## Personal Assistants
 

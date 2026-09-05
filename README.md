@@ -101,6 +101,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [5dive](https://github.com/5dive-ai/5dive) - Named agents on a shared org chart and backlog hand work to each other and escalate to a human over Telegram. Claude Code, Codex, Grok, Antigravity, OpenCode.
 - [Agent Teams](https://github.com/777genius/agent-teams-ai) - Desktop app where you give high-level commands to autonomous coding-agent teams across Claude Code, Codex, OpenCode, Cursor, Grok, GitHub Copilot, Kiro, Z.AI, MiniMax, Kimi, 200+ models, and 75+ LLM providers. Agents coordinate through inter-agent messaging, Kanban tasks, and built-in code review.
 - [agent-kanban](https://github.com/saltbo/agent-kanban) - Leader-worker task board with cryptographic agent identity. Claude Code, Codex, Gemini CLI.
+- [AgentBridge](https://github.com/raysonmeng/agent-bridge) - Local MIT CLI that keeps Claude Code and Codex as live peers in one session for mid-turn review, task split, and quota-boundary handoff.
 - [agentsmesh](https://github.com/AgentsMesh/AgentsMesh) - Remote AI workstations with PTY sandboxes and worktree isolation, coordinating across channels and pod bindings. Claude Code, Codex, Gemini CLI, Aider, OpenCode.
 - [Agon](https://github.com/AutoResearch-Factory/Agon) - Orchestrates scientist, coder, and auditor loops from research topic through proposal to experiment.
 - [buzz](https://github.com/block/buzz) - Agents are first-class members of shared channels on a Nostr relay you own, with their own keys and audit trails. Claude Code, Codex, Goose.

@@ -82,6 +82,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [qm](https://github.com/yc-software/qm) - Multiplayer harness where each teammate gets an isolated workspace to run agents independently, driven from Slack or the web.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS command center for worktree-per-agent development.
 - [superset](https://github.com/superset-sh/superset) - Code editor built around running many agents on your machine at once.
+- [swe-mux](https://github.com/jatoran/swe-mux) - Local daemon and browser workspace holding coding-agent CLIs in real terminals, with live status, prompt queues, messages between sessions, and the same sessions on a phone over your own Tailscale network. A separate supervisor process owns the pseudoterminals, so sessions outlive daemon restarts and app updates, and a land queue reconciles each finished worktree branch, runs the repository's own verification command, then fast-forwards trunk one branch at a time. Claude Code, Codex, opencode, pi, oh-my-pi.
 - [synara](https://github.com/Emanuele-web04/synara) - GUI desktop workspace for running and managing agents across local projects.
 - [t3code](https://github.com/pingdotgg/t3code) - Harness control surface available as web, mobile, and desktop app. Claude Code, Codex, Cursor, Grok Build, OpenCode.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge that puts Codex, Claude Code, OpenCode, and Pi sessions in a chat thread.

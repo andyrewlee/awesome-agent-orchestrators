@@ -210,6 +210,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [lemon](https://github.com/z80dev/lemon) - Local-first assistant and coding agent runtime.
 - [leon](https://github.com/leon-ai/leon) - Long-running open-source personal assistant with voice and text interfaces.
 - [lobsterai](https://github.com/netease-youdao/LobsterAI) - Desktop-grade agent for data analysis, slides, docs, and web research.
+- [lucidos](https://github.com/lucidos-dev/lucidos) - Describe an app or an automation in chat and it writes one, then keeps it running beside the thread: generated apps get their own UI over the same files and event store, triggers fire on a schedule or on an event, and threads spawn Claude Code or Codex sessions whose changes you apply from the same place. Rust engine, one installer for macOS, bring your own model, MIT.
 - [lucinate](https://github.com/lucinate-ai/lucinate) - Terminal-native chat client for OpenClaw, Hermes, Ollama, and OpenAI-compatible providers, with cron management and session browsing.
 - [MetaClaw](https://github.com/aiming-lab/MetaClaw) - Assistant that learns and evolves from conversation alone.
 - [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight self-hosted assistant in Python with WebUI, tools, memory, MCP, and multi-agent workflows.

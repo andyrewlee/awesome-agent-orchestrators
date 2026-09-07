@@ -170,6 +170,7 @@ Unattended agents driven by an external source — an issue queue, a work board,
 
 Control planes, coordination protocols, harness adapters, and runtimes — the layer beneath your agents rather than the surface you work in.
 
+- [Agent Actions Protocol](https://github.com/agentmessaging/agent-actions) - Open protocol for structured UI-to-agent interactions: clicks and form input in HTML an agent rendered come back as immutable JSON records it can read, instead of console scraping or a WebSocket per page.
 - [agent-runbook](https://github.com/KnoxOps/agent-runbook) - Compiles YAML runbooks with loops, branching, and parallelism into SKILL.md files for Claude Code and Codex.
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Keeps specialist agents in a hub and spins up a temporary orchestrator per task, with A2A routing and governed memory gates. Formerly Hephaestus.
 - [agenttier](https://github.com/agenttier/agenttier) - Kubernetes runtime giving each agent its own Pod and PVC sandbox behind a default-deny NetworkPolicy, with a streaming SSE invoke API.

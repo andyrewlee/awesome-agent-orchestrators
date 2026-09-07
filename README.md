@@ -170,6 +170,7 @@ Unattended agents driven by an external source — an issue queue, a work board,
 
 Control planes, coordination protocols, harness adapters, and runtimes — the layer beneath your agents rather than the surface you work in.
 
+- [Agent Identity](https://github.com/agentmessaging/agent-identity) - Lets an agent authenticate to an OAuth 2.0 server with its own Ed25519 key rather than a shared API key, exchanging a signed identity and proof of possession for a standard JWT. Spec, reference flows, and installer.
 - [agent-runbook](https://github.com/KnoxOps/agent-runbook) - Compiles YAML runbooks with loops, branching, and parallelism into SKILL.md files for Claude Code and Codex.
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Keeps specialist agents in a hub and spins up a temporary orchestrator per task, with A2A routing and governed memory gates. Formerly Hephaestus.
 - [agenttier](https://github.com/agenttier/agenttier) - Kubernetes runtime giving each agent its own Pod and PVC sandbox behind a default-deny NetworkPolicy, with a streaming SSE invoke API.

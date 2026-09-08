@@ -39,6 +39,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 
 - [agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE for fleets that plans the work, spawns the agents, then fixes CI failures and merge conflicts without being asked.
 - [agent-squid](https://github.com/agent-squid/squid) - Browser UI organized into named lanes (`#topic@agent`), with context shared across agents and a realtime quota gauge.
+- [Argus](https://github.com/andreaderuvo/argus) - Self-hosted browser and mobile workspace around existing tmux sessions, with PTY terminals, files and rendered reports side by side, worktree launchers, agent hand-offs, and an optional multi-machine fleet board. Claude Code, Codex, Gemini CLI, or any terminal program.
 - [AGX](https://github.com/ramarlina/agx) - Wake-work-sleep checkpointing keeps a persistent agent team on long objectives, with human gates between cycles.
 - [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - Dashboard spanning multiple machines, adding memory search, code-graph queries, and agent-to-agent messaging. Claude, Aider, Cursor.
 - [aizen](https://github.com/vivy-company/aizen) - macOS workspace that organizes worktrees, environments, and agent sessions per project.

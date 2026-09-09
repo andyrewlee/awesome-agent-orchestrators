@@ -120,6 +120,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [orc](https://github.com/spencermarx/orc) - Lightweight framework that piggybacks your existing CLI setup for planning, task decomposition, worktrees, and review.
 - [ORCH](https://github.com/oxgeneral/ORCH) - CLI runtime managing agents as typed teams with an explicit state machine and goals. Claude Code, Codex, Cursor.
 - [Orkas](https://github.com/Orkas-AI/Orkas) - A commander agent decomposes goals and dispatches specialists with isolated skills and memory. Claude Code, Codex, OpenCode, Cline.
+- [OtoDock](https://github.com/OtoDock/oto-dock) - Self-hosted "company OS" where agents work in departments, delegate to each other, and keep working unwatched on your Anthropic/OpenAI subscriptions — company map, per-agent dashboards, artifacts, meetings, and terminals. Source-available under FSL-1.1.
 - [paperclip](https://github.com/paperclipai/paperclip) - Self-hosted platform where agents wake on heartbeats to claim tickets, governed by org charts, budgets, and approval gates.
 - [ruflo](https://github.com/ruvnet/ruflo) - Meta-harness for deploying coordinated swarms and conversational multi-agent workflows. Formerly claude-flow.
 - [scion](https://github.com/GoogleCloudPlatform/scion) - Orchestration testbed running agents in parallel isolated containers with dynamic coordination and normalized telemetry.

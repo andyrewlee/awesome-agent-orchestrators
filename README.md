@@ -72,6 +72,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [jean](https://github.com/coollabsio/jean) - Desktop and web app for orchestrating agents across multiple projects and their git worktrees. Claude, Codex, OpenCode.
 - [kandev](https://github.com/kdlbs/kandev) - Kanban workbench whose multi-step workflows assign a different agent per step behind human gates, running locally, in Docker, over SSH, or in cloud executors.
 - [mux](https://github.com/coder/mux) - Desktop app for isolated, parallel agentic development.
+- [MonoCode](https://github.com/hardbeat920/monocode) - Tauri desktop UI where tabs are agent sessions, running Claude Code, Codex, Cursor, Grok Build, OpenCode, Pi, omp, and fx on your existing subscriptions. macOS, Linux, and Windows.
 - [nimbalyst](https://github.com/nimbalyst/nimbalyst) - Visual workspace pairing parallel worktree sessions with kanban and direct visual editing. Claude Code, Codex, OpenCode.
 - [octomux](https://github.com/ShreyPaharia/octomux) - Local dashboard with a kanban fleet view, one unified permission inbox across agents, and in-app diff review.
 - [omg.dev](https://github.com/BennyKok/omg.dev) - Open-source parallel-agent harness: run coding agents on your own computer or a hosted one, controlled from a single web UI with a mobile client. Claude Code, Codex, Grok, Cursor, OpenCode, Copilot, Pi.

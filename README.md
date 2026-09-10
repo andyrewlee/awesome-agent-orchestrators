@@ -175,6 +175,7 @@ Unattended agents driven by an external source — an issue queue, a work board,
 
 Control planes, coordination protocols, harness adapters, and runtimes — the layer beneath your agents rather than the surface you work in.
 
+- [Agent Messaging Protocol](https://github.com/agentmessaging/protocol) - Open standard for agent-to-agent messaging with Ed25519-signed envelopes, federation across providers, and delivery that must be proven rather than assumed. Reference server, TypeScript SDK, and a Claude Code plugin.
 - [agent-runbook](https://github.com/KnoxOps/agent-runbook) - Compiles YAML runbooks with loops, branching, and parallelism into SKILL.md files for Claude Code and Codex.
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Keeps specialist agents in a hub and spins up a temporary orchestrator per task, with A2A routing and governed memory gates. Formerly Hephaestus.
 - [agenttier](https://github.com/agenttier/agenttier) - Kubernetes runtime giving each agent its own Pod and PVC sandbox behind a default-deny NetworkPolicy, with a streaming SSE invoke API.

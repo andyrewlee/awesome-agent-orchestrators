@@ -93,6 +93,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [tlbx](https://github.com/tlbx-ai/tlbx) - Self-hosted browser workspace holding persistent real PTY sessions on your own machines, reachable from any browser or phone.
 - [Tortie](https://github.com/gregce/tortie) - Native macOS agent multiplexer with familiar IDE features: all projects in one window, agents that survive restarts, and organized terminal sessions without tmux.
 - [Traycer](https://github.com/traycerai/traycer) - Bring-your-own-agent workspace running many sessions in parallel with context shared across models and providers, plus agent-to-agent messaging, shareable boards, and cross-device sync.
+- [tring](https://github.com/matogen/tring.chat) - Browser-based terminal deck that runs up to 16 Claude Code or shell sessions per project, keeps one in focus with the rest as live thumbnails, and turns a tile green when a session finishes and is waiting for input.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - One git worktree per agent, delivered as desktop, web, and CLI.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - RTS-style workspace for commanding coding agents.
 - [Waku](https://github.com/egoist/waku) - Native macOS desktop app for working with local coding agents, keeping projects, sessions, and transcripts on your machine. Supports Amp, Claude Code, Codex CLI, Cursor CLI, Grok Build, OpenCode, and Pi.

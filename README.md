@@ -71,6 +71,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [jat](https://github.com/joewinke/jat) - Visual dashboard combining live sessions, task management, code editor, and terminal, with parallel swarm workflows.
 - [jean](https://github.com/coollabsio/jean) - Desktop and web app for orchestrating agents across multiple projects and their git worktrees. Claude, Codex, OpenCode.
 - [kandev](https://github.com/kdlbs/kandev) - Kanban workbench whose multi-step workflows assign a different agent per step behind human gates, running locally, in Docker, over SSH, or in cloud executors.
+- [lmux](https://github.com/LiManshiang/lmux) - Native macOS workbench for running CodeBuddy Code and Claude Code in parallel sessions, with per-conversation context and credit meters, automatic conversation resume (including on another Mac), and cross-Mac session sync. CodeBuddy Code, Claude Code.
 - [mux](https://github.com/coder/mux) - Desktop app for isolated, parallel agentic development.
 - [MonoCode](https://github.com/hardbeat920/monocode) - Tauri desktop UI where tabs are agent sessions, running Claude Code, Codex, Cursor, Grok Build, OpenCode, Pi, omp, and fx on your existing subscriptions. macOS, Linux, and Windows.
 - [nimbalyst](https://github.com/nimbalyst/nimbalyst) - Visual workspace pairing parallel worktree sessions with kanban and direct visual editing. Claude Code, Codex, OpenCode.

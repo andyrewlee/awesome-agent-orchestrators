@@ -218,6 +218,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [lemon](https://github.com/z80dev/lemon) - Local-first assistant and coding agent runtime.
 - [leon](https://github.com/leon-ai/leon) - Long-running open-source personal assistant with voice and text interfaces.
 - [lobsterai](https://github.com/netease-youdao/LobsterAI) - Desktop-grade agent for data analysis, slides, docs, and web research.
+- [lolabot](https://github.com/23blocks-OS/lolabot) - Chief-of-staff assistant for Claude Code that handles email, keeps semantic memory across sessions, and tracks tasks. Runs standalone or on AI Maestro.
 - [lucinate](https://github.com/lucinate-ai/lucinate) - Terminal-native chat client for OpenClaw, Hermes, Ollama, and OpenAI-compatible providers, with cron management and session browsing.
 - [MetaClaw](https://github.com/aiming-lab/MetaClaw) - Assistant that learns and evolves from conversation alone.
 - [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight self-hosted assistant in Python with WebUI, tools, memory, MCP, and multi-agent workflows.

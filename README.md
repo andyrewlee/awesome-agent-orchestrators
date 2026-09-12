@@ -42,6 +42,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 
 - [agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE for fleets that plans the work, spawns the agents, then fixes CI failures and merge conflicts without being asked.
 - [agent-squid](https://github.com/agent-squid/squid) - Browser UI organized into named lanes (`#topic@agent`), with context shared across agents and a realtime quota gauge.
+- [AgentGrid](https://agentgrid.sh/) - Desktop canvas for orchestrating Claude Code, Codex, and other coding agents, with visible worker conversations, shared notes and browser panes, and git-worktree management. macOS, Windows, and Linux; closed-source with a free tier.
 - [AGX](https://github.com/ramarlina/agx) - Wake-work-sleep checkpointing keeps a persistent agent team on long objectives, with human gates between cycles.
 - [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - Dashboard spanning multiple machines, adding memory search, code-graph queries, and agent-to-agent messaging. Claude, Aider, Cursor.
 - [AI4Kanban](https://github.com/ai4kanban/ai4kanban) - AI project manager that turns rough ideas into actionable tasks, coordinates coding agents through planning and implementation, and builds shared project memory from decisions. Humans steer priorities and make key decisions through a desktop and web interface.

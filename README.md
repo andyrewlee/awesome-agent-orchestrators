@@ -148,6 +148,7 @@ The "keep running until done" pattern — a single goal driven through a retry-u
 - [Loop Engineering](https://github.com/cobusgreyling/loop-engineering) - Designs repeatable coding-agent loops around automation, worktrees, skills, state, and verification, with starters and a Loop Ready score for Grok, Claude Code, Codex, and OpenCode.
 - [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - An LLM council plans the work, then Ralph-style loops retry failed units with fresh context. Executes via OpenCode worktrees.
 - [MartinLoop](https://github.com/Keesan12/martin-loop) - Caps spend, enforces policy, verifies output, and rolls back failures, leaving inspectable run receipts.
+- [ordewell](https://github.com/ordewell/ordewell) - Turns one goal into an editable plan of tasks, each carrying its own runner, model and mode, then runs each task as its own agent session and passes it only when evidence of completion shows up in that session's output. Claude Code, Codex, OpenCode.
 - [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Development loop for Claude Code with exit detection that recognizes when the work is actually finished.
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Hat-based orchestration that keeps agents looping until done, as a fuller implementation of the Ralph Wiggum technique.
 - [ralph-tui](https://github.com/subsy/ralph-tui) - Drives an agent through a task list autonomously, with a TUI for watching the loop.

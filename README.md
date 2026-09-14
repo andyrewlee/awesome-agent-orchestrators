@@ -38,6 +38,8 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 - [tmux-ide](https://github.com/wavyrai/tmux-ide) - Turns any project into a tmux IDE from a checked-in `ide.yml`, including preset agent-team layouts.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries: each task runs in a dedicated branch and worktree, and a risk-based merge queue reviews the result with receipt-backed changes. Pi and Codex subagents.
 
+- [taskpods](https://github.com/yanairon/taskpods) - Lightweight, agent-agnostic CLI that runs parallel coding-agent tasks in isolated Git worktrees and branches, with list, PR, cleanup, and abort lifecycle commands.
+
 ## Parallel Coding Agents — Desktop & Web
 
 The same parallel-sessions workflow as a desktop app or browser/mobile dashboard, with diff review and merge.

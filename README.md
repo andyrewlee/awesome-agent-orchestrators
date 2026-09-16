@@ -36,6 +36,7 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 - [termany](https://github.com/thinkany-ai/termany) - Terminal that keeps many agent sessions in one window, tagging each pane working/done/needs-attention from the running job rather than the shell prompt, with diffs, worktrees, port handling, remote hosts, and token cost in the same place. Claude, Codex, Gemini, Grok Build, OpenClaw, Hermes, OpenCode, Cursor, Kimi, OMP.
 - [thurbox](https://github.com/Thurbeen/thurbox) - TUI orchestrator with remote SSH sessions, inter-session messaging, and a native code-review view. Works with any CLI agent you define.
 - [tmux-ide](https://github.com/wavyrai/tmux-ide) - Turns any project into a tmux IDE from a checked-in `ide.yml`, including preset agent-team layouts.
+- [Vigil](https://github.com/butterlatte-zhang/vigil) - Native macOS terminal where a manager agent runs the tree — spawning workers and sub-managers, detail flowing down, summaries rolling up — while every node stays the CLI's own TUI you can take over. Claude Code, Codex, OpenCode.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries: each task runs in a dedicated branch and worktree, and a risk-based merge queue reviews the result with receipt-backed changes. Pi and Codex subagents.
 
 ## Parallel Coding Agents — Desktop & Web

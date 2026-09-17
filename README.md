@@ -1,8 +1,8 @@
 # Awesome Agent Orchestrators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of tools and frameworks for orchestrating agents.
+A curated list of open source and source available tools for orchestrating agents.
 
-Everything here decides what an agent works on, when it runs, where it runs, or what happens to its output, and takes whatever task you point it at. Single-purpose bots, and things an agent merely consumes — memory backends, MCP servers, sandbox providers, skill libraries — are out of scope.
+Prefer a web version? Visit [agent-orchestrators.com](https://agent-orchestrators.com) for more information on each tool.
 
 ## How to choose
 

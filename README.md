@@ -19,6 +19,7 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 - [agent-console](https://github.com/buhuipao/agent-console) - Rust TUI that finds Codex and Claude Code sessions from the providers' own transcripts, including ones started elsewhere, and resumes their native UI rather than replacing it. No tmux or worktrees.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - One TUI covering sessions across Claude Code, Codex, Gemini, and OpenCode, with live status and resume for each.
 - [agent-manager](https://github.com/YoanWai/agent-manager) - tmux TUI with live status, a prompt that lands in the pane without attaching, and in-terminal diff review that sends line comments back to the agent. Claude Code, Codex, OpenCode, Grok, Gemini CLI, Pi, Hermes.
+- [agent-session-manager](https://github.com/izll/agent-session-manager) - tmux TUI with live status, session groups, resume and fork, diff review, and mobile push when an agent needs an answer. Claude Code, Codex, Gemini, Aider, Amazon Q, OpenCode.
 - [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Pairs a TUI with a matching web view, so the same sessions stay reachable from a phone. Claude Code, Codex, OpenCode, Gemini, Mistral Vibe.
 - [agentbox](https://github.com/madarco/agentbox) - Gives each agent its own sandboxed VM — local Docker or cloud via Hetzner, Daytona, Vercel, or E2B — with sub-second checkpoint starts.
 - [agterm](https://github.com/umputun/agterm) - Native macOS terminal with named workspaces, a live dashboard, attention states, and a scriptable control API.
@@ -44,6 +45,7 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 The same parallel-sessions workflow as a desktop app or browser/mobile dashboard, with diff review and merge.
 
 - [agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE for fleets that plans the work, spawns the agents, then fixes CI failures and merge conflicts without being asked.
+- [agent-session-manager-desktop](https://github.com/izll/agent-session-manager-desktop) - Desktop GUI over tmux where each session holds agent and shell tabs with per-tab working directories; waiting agents raise a header counter you can answer without switching tabs, and ntfy push carries it to your phone. Linux, macOS, Windows. Claude Code, Codex, Gemini, Aider.
 - [agent-squid](https://github.com/agent-squid/squid) - Browser UI organized into named lanes (`#topic@agent`), with context shared across agents and a realtime quota gauge.
 - [AGX](https://github.com/ramarlina/agx) - Wake-work-sleep checkpointing keeps a persistent agent team on long objectives, with human gates between cycles.
 - [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - Dashboard spanning multiple machines, adding memory search, code-graph queries, and agent-to-agent messaging. Claude, Aider, Cursor.

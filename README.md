@@ -40,6 +40,8 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 - [Vigil](https://github.com/butterlatte-zhang/vigil) - Native macOS terminal where a manager agent runs the tree — spawning workers and sub-managers, detail flowing down, summaries rolling up — while every node stays the CLI's own TUI you can take over. Claude Code, Codex, OpenCode.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries: each task runs in a dedicated branch and worktree, and a risk-based merge queue reviews the result with receipt-backed changes. Pi and Codex subagents.
 
+- [taskpods](https://github.com/yanairon/taskpods) - Lightweight, agent-agnostic CLI that runs parallel coding-agent tasks in isolated Git worktrees and branches, with list, PR, cleanup, and abort lifecycle commands.
+
 ## Parallel Coding Agents — Desktop & Web
 
 The same parallel-sessions workflow as a desktop app or browser/mobile dashboard, with diff review and merge.

@@ -206,6 +206,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [guild](https://github.com/mathomhaus/guild) - Shared context, memory, and task coordination as a single Go binary over local SQLite with hybrid keyword and semantic search.
 - [handoff](https://github.com/dazuiba/handoff) - Delegates a task to DeepSeek, Codex, or Claude from inside your current Claude Code or Codex session, returning the result automatically.
 - [LionClaw](https://github.com/moshthepitt/lionclaw) - Local control plane running coding agents as durable, auditable workers with explicit state, skills, and checkpoints.
+- [MAIster](https://github.com/maister-dev/maister) - Self-hosted control plane with version-pinned workflow packages and role-based platform agents for triage, review, and knowledge maintenance. Runs development workflows in Git worktrees, combining coding agents, CLI steps, human approvals, and evidence checks before PR creation or local merge. Claude Code, Codex, Gemini CLI, OpenCode, and MiMo via ACP.
 - [NemoClaw](https://github.com/NVIDIA/NemoClaw) - Runs Hermes, LangChain Deep Agents, and OpenClaw inside NVIDIA OpenShell with managed inference.
 - [neuralyzer](https://github.com/gintasz/neuralyzer) - Lets an agent wipe its own session context and re-run the first message, making Ralph loops easier to engineer.
 - [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - Workflow layer for OpenAI Codex CLI: stronger default sessions, reusable skills, native hooks, HUD/status surfaces, project guidance, and team-style execution commands.

@@ -40,6 +40,7 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 - [tmux-ide](https://github.com/wavyrai/tmux-ide) - Turns any project into a tmux IDE from a checked-in `ide.yml`, including preset agent-team layouts.
 - [Vigil](https://github.com/butterlatte-zhang/vigil) - Native macOS terminal where a manager agent runs the tree — spawning workers and sub-managers, detail flowing down, summaries rolling up — while every node stays the CLI's own TUI you can take over. Claude Code, Codex, OpenCode.
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries: each task runs in a dedicated branch and worktree, and a risk-based merge queue reviews the result with receipt-backed changes. Pi and Codex subagents.
+- [YYLO Ledger](https://github.com/yylo-dev/yylo-ledger) - Git-native task and record store for coding-agent workflows: task history lives in stable Markdown files with segmented hash-chained, append-only ledgers, dependency-aware work, receipt and archive packs, and bounded queries from a shell-friendly CLI, with no database as the source of truth. Companion to YYLO.
 
 ## Parallel Coding Agents — Desktop & Web
 

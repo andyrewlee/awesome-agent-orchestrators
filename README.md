@@ -92,6 +92,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [parallel-code](https://github.com/johannesjo/parallel-code) - Desktop app running Claude Code, Codex, and Gemini CLI side by side in isolated worktrees, with a built-in diff viewer and one-click merge.
 - [Proliferate](https://github.com/proliferate-ai/proliferate) - Agent IDE that runs sessions locally or in the cloud and lets you build reusable workflows from them.
 - [qm](https://github.com/yc-software/qm) - Multiplayer harness where each teammate gets an isolated workspace to run agents independently, driven from Slack or the web.
+- [Sillage](https://github.com/MarlBurroW/sillage) - Self-hosted, mobile-first web UI that drives the native CLIs on your own machine, with server-side event journals so sessions outlive the client, git worktrees, per-conversation full-text search, an IDE panel (file explorer, editor, diffs, terminal), a board the agents read over its own MCP server, and an installable PWA with push. Single Docker container. Claude Code, Codex. MIT.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS command center for worktree-per-agent development.
 - [Superagent](https://github.com/pungme/superagent-desktop) - macOS desktop app giving Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 - [superset](https://github.com/superset-sh/superset) - Code editor built around running many agents on your machine at once.

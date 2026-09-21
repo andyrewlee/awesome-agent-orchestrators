@@ -4,13 +4,28 @@ A curated list of open source and source available tools for orchestrating agent
 
 Prefer a web version? Visit [agent-orchestrators.com](https://agent-orchestrators.com) for more information on each tool.
 
-## How to choose
+**Run several agents at once and review each diff.** Parallel Coding Agents — Terminal (TUI/CLI) if you live in tmux; Desktop & Web if you want a GUI or phone access.
 
-- **Run several agents at once and review each diff.** [Terminal](#parallel-coding-agents--terminal-tuicli) if you live in tmux, [Desktop & Web](#parallel-coding-agents--desktop--web) if you want a GUI or phone access.
-- **Keep an agent working while you're away.** [Autonomous Loop Runners](#autonomous-loop-runners) drive one goal until it verifies. [Autonomous Task Runners](#autonomous-task-runners) pull work from an issue tracker, board, or schedule.
-- **Have agents split a large job between themselves.** [Multi-Agent Swarms](#multi-agent-swarms).
-- **Message an agent instead of opening a tool.** [Personal Assistants](#personal-assistants) stay running, remember across sessions, and pick up work from a chat thread — general tasks, not only code.
-- **Build your own orchestrator.** [Agent Infrastructure & Primitives](#agent-infrastructure--primitives) — control planes, coordination protocols, harness adapters, and runtimes.
+**Keep an agent working while you're away.** Autonomous Loop Runners drive one goal until it verifies; Autonomous Task Runners pull work from an issue tracker, board, or schedule.
+
+**Have agents split a large job between themselves.** Multi-Agent Swarms.
+
+**Message an agent instead of opening a tool.** Personal Assistants stay running, remember across sessions, and pick up work from a chat thread — general tasks, not only code.
+
+**Build your own orchestrator.** Agent Infrastructure & Primitives — control planes, coordination protocols, harness adapters, and runtimes.
+
+## Contents
+
+- [Parallel Coding Agents — Terminal (TUI/CLI)](#parallel-coding-agents--terminal-tuicli)
+- [Parallel Coding Agents — Desktop & Web](#parallel-coding-agents--desktop--web)
+- [Multi-Agent Swarms](#multi-agent-swarms)
+- [Autonomous Loop Runners](#autonomous-loop-runners)
+- [Autonomous Task Runners](#autonomous-task-runners)
+- [Agent Infrastructure & Primitives](#agent-infrastructure--primitives)
+- [Personal Assistants](#personal-assistants)
+- [Resting](#resting)
+
+
 
 ## Parallel Coding Agents — Terminal (TUI/CLI)
 
@@ -18,8 +33,8 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 
 - [agent-console](https://github.com/buhuipao/agent-console) - Rust TUI that finds Codex and Claude Code sessions from the providers' own transcripts, including ones started elsewhere, and resumes their native UI rather than replacing it. No tmux or worktrees.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - One TUI covering sessions across Claude Code, Codex, Gemini, and OpenCode, with live status and resume for each.
-- [agent-manager](https://github.com/YoanWai/agent-manager) - tmux TUI with live status, a prompt that lands in the pane without attaching, and in-terminal diff review that sends line comments back to the agent. Claude Code, Codex, OpenCode, Grok, Gemini CLI, Pi, Hermes.
-- [agent-session-manager](https://github.com/izll/agent-session-manager) - tmux TUI with live status, session groups, resume and fork, diff review, and mobile push when an agent needs an answer. Claude Code, Codex, Gemini, Aider, Amazon Q, OpenCode.
+- [agent-manager](https://github.com/YoanWai/agent-manager) - Live-status tmux TUI with a prompt that lands in the pane without attaching, and in-terminal diff review that sends line comments back to the agent. Claude Code, Codex, OpenCode, Grok, Gemini CLI, Pi, Hermes.
+- [agent-session-manager](https://github.com/izll/agent-session-manager) - Live tmux TUI with session groups, resume and fork, diff review, and mobile push when an agent needs an answer. Claude Code, Codex, Gemini, Aider, Amazon Q, OpenCode.
 - [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Pairs a TUI with a matching web view, so the same sessions stay reachable from a phone. Claude Code, Codex, OpenCode, Gemini, Mistral Vibe.
 - [agentbox](https://github.com/madarco/agentbox) - Gives each agent its own sandboxed VM — local Docker or cloud via Hetzner, Daytona, Vercel, or E2B — with sub-second checkpoint starts.
 - [agterm](https://github.com/umputun/agterm) - Native macOS terminal with named workspaces, a live dashboard, attention states, and a scriptable control API.

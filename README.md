@@ -4,6 +4,10 @@ A curated list of open source and source available tools for orchestrating agent
 
 Prefer a web version? Visit [agent-orchestrators.com](https://agent-orchestrators.com) for more information on each tool.
 
+## Translations
+
+- [Português (Brasil)](README.pt-BR.md)
+
 ## How to choose
 
 - **Run several agents at once and review each diff.** [Terminal](#parallel-coding-agents--terminal-tuicli) if you live in tmux, [Desktop & Web](#parallel-coding-agents--desktop--web) if you want a GUI or phone access.

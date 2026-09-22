@@ -156,6 +156,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [ruflo](https://github.com/ruvnet/ruflo) - Meta-harness for deploying coordinated swarms and conversational multi-agent workflows. Formerly claude-flow.
 - [scion](https://github.com/GoogleCloudPlatform/scion) - Orchestration testbed running agents in parallel isolated containers with dynamic coordination and normalized telemetry.
 - [shire](https://github.com/victor36max/shire) - Persistent team workspaces with inter-agent mailboxes and a shared drive. Claude Code, OpenCode, Pi.
+- [squad](https://github.com/bradygaster/squad) - Human-led AI agent teams for any project built on GitHub Copilot: repo-native specialist agents, coordinator routing, and parallel work, with persistent memory across sessions.
 - [tutti](https://github.com/nutthouse/tutti) - Config-driven workflows passing typed artifacts between agents, each in its own worktree.
 
 ## Autonomous Loop Runners

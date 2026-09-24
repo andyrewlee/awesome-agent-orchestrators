@@ -126,6 +126,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [xum](https://github.com/coder/xum) - Desktop app for isolated, parallel agentic development.
 - [Zaivern Code](https://github.com/tacyan/zaivern-code) - Cross-platform Rust desktop cockpit for running Claude Code, Codex, Gemini CLI, and 30+ coding agents in parallel, with fleet monitoring, mobile control, and line-level ownership to prevent merge conflicts.
 - [Zeron](https://github.com/zeronsh/zeron) - Cross-device control plane for coding agents, syncing sessions across machines and keeping agents running on an always-on daemon. Claude Code, Codex, Cursor, Grok, Hermes, Pi.
+- [zuse](https://github.com/swarajbachu/zuse) - Chat-first desktop app wrapping Claude Code, Codex, Grok, Gemini, Cursor, and OpenCode in persistent sessions. macOS and Linux.
 
 ## Multi-Agent Swarms
 

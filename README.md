@@ -261,6 +261,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [lemon](https://github.com/z80dev/lemon) - Local-first assistant and coding agent runtime.
 - [leon](https://github.com/leon-ai/leon) - Long-running open-source personal assistant with voice and text interfaces.
 - [lobsterai](https://github.com/netease-youdao/LobsterAI) - Desktop-grade agent for data analysis, slides, docs, and web research.
+- [lorca](https://github.com/egoist/lorca) - E2E-encrypted personal agent chat: create bots, talk 1:1 or in group chats, and let them hand work to each other. Rust CLI, native macOS client, and phone apps.
 - [lucinate](https://github.com/lucinate-ai/lucinate) - Terminal-native chat client for OpenClaw, Hermes, Ollama, and OpenAI-compatible providers, with cron management and session browsing.
 - [MetaClaw](https://github.com/aiming-lab/MetaClaw) - Assistant that learns and evolves from conversation alone.
 - [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight self-hosted assistant in Python with WebUI, tools, memory, MCP, and multi-agent workflows.

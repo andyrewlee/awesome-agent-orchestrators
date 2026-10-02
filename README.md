@@ -248,6 +248,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Daemon, HTTP/SSE API, and TypeScript SDK for driving six coding agents inside E2B, Daytona, Modal, Cloudflare Containers, or Docker.
 - [skillfold](https://github.com/byronxlg/skillfold) - Declares skills in YAML and pins exact revisions in a lockfile so installs are reproducible across Claude Code and Codex.
 - [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Portable Markdown definitions that route a task to a chosen backend, model, effort level, and permission set.
+- [Unified AI System](https://github.com/happy520ai/unified-ai-system) - Self-hosted gateway and agent control plane that puts prompt enhancement, virtual-key budgets, response caching and a hash-chained audit trail in front of OpenAI-compatible, Anthropic and Gemini traffic, and re-exposes governed tools over MCP to Codex, Cursor and Cline.
 
 ## Personal Assistants
 

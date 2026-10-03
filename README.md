@@ -114,6 +114,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [qm](https://github.com/yc-software/qm) - Multiplayer harness where each teammate gets an isolated workspace to run agents independently, driven from Slack or the web.
 - [Reemoat](https://github.com/rends-east/reemoat) - Self-hosted remote control for any coding agent: run coding agents on your own machines and supervise them from anywhere, end-to-end encrypted.
 - [Runner](https://github.com/yicheng47/runner) - Native macOS and Windows app running CLI agents side by side in split panes, each keeping its own TUI in a real terminal, and putting them on one mission as a crew with a lead. Claude Code, Codex, Copilot CLI, pi.
+- [Solenta](https://github.com/currentbits/solenta) - Local-first desktop app with shared memory injected into every agent session, a GitHub-issues planboard, and one git worktree per thread. Claude Code, Codex, Cursor, Kimi, Grok, OpenCode.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS command center for worktree-per-agent development.
 - [Superagent](https://github.com/pungme/superagent-desktop) - macOS desktop app giving Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 - [superset](https://github.com/superset-sh/superset) - Code editor built around running many agents on your machine at once.

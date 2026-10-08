@@ -266,6 +266,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [assistant](https://github.com/kcosr/assistant) - Panel-based assistant whose plugins share one workspace of notes, lists, and objects.
 - [automata](https://github.com/sentientwave/automata) - Matrix-native workspace where Temporal-backed durable workflows survive restarts and keep long tasks moving.
 - [Cloudflare OS](https://github.com/cloudflare/cloudflare-os) - Self-hostable "company OS" on Cloudflare Workers: a chat UI where agents preloaded with your company context do tasks, build sandboxed apps, and stay inside a Gatekeepers guardrail framework.
+- [Comma](https://github.com/AFK-surf/Comma) - Sessionless personal agent that breaks goals into tasks and keeps working through agentic loops across your computer, phone, and browser, with computer use, files, and remote control; self-hostable (AGPL-3.0).
 - [Coworker](https://github.com/accomplish-ai/coworker) - Open source AI coworker that lives on your desktop. Formerly accomplish.
 - [Overlay](https://github.com/LayerNorm/overlay-web) - Open-source workspace where humans and agents share context — knowledge, files, memory, connected apps — so you delegate repeatable work to agents, review what they produce, and take action through tools, provider-neutral.
 - [denchclaw](https://github.com/DenchHQ/DenchClaw) - Managed OpenClaw framework aimed at CRM, sales automation, and outreach.

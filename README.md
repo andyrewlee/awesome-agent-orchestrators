@@ -275,6 +275,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [Coworker](https://github.com/accomplish-ai/coworker) - Open source AI coworker that lives on your desktop. Formerly accomplish.
 - [denchclaw](https://github.com/DenchHQ/DenchClaw) - Managed OpenClaw framework aimed at CRM, sales automation, and outreach.
 - [ghostclaw](https://github.com/b1rdmania/ghostclaw) - An AI that lives on your computer and does things for you.
+- [Grux](https://github.com/dotcomjack/grux) - Native macOS agent that runs agent swarms in parallel, opens terminal sessions it can undo, and reaches your mail, calendar and meetings; runs on a local Ollama model or your own Anthropic key, and any coding agent can drive it over MCP or its CLI.
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - Self-improving harness with persistent cross-session memory and auto-generated skill documents.
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted team of specialized agents with persistent memory that delegate and build their own tools and mini-apps. Telegram, Slack, Discord, Matrix. Single container, MIT.
 - [ironclaw](https://github.com/nearai/ironclaw) - Agent OS in Rust focused on privacy, security, and extensibility.

@@ -161,6 +161,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [hcom](https://github.com/aannoo/hcom) - Lets agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity, Cursor, OpenCode, Kilo, and more.
 - [kodo](https://github.com/ikamensh/kodo) - Directs agents through work cycles where a separate agent independently verifies each result. Claude Code, Codex, Gemini CLI.
 - [loki-mode](https://github.com/asklokesh/loki-mode) - PRD-to-deployed-product SDLC with 41 agents in 8 swarms, nine quality gates, and blind three-reviewer code review. Source-available under BUSL-1.1.
+- [Markus](https://github.com/markus-global/markus) - The all-in-one AI workforce platform for building AI agent teams: role-based agents that coordinate, delegate tasks, and work toward a shared goal with persistent memory.
 - [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Shogun to karo to ashigaru hierarchy running up to 10 agents over tmux with no coordination API cost.
 - [NXTG-Forge Orchestrator](https://github.com/nxtg-ai/forge-orchestrator) - Coordinates Claude Code, Codex, and Gemini CLI on one shared repo through a research-plan-delegate-adversarial-verify-deploy pipeline, with file locking, knowledge capture, and drift detection. Single Rust binary.
 - [OpenRig](https://github.com/mvschwarz/openrig) - YAML-defined agent team with a lead agent that runs Claude Code and Codex together as one persistent system in tmux. npm CLI.

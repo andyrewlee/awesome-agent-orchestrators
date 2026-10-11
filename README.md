@@ -84,6 +84,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [collaborator](https://github.com/collabs-inc/collab-public) - Arranges terminals, editors, and files as tiles on an infinite pan-and-zoom canvas instead of tabs.
 - [constellagent](https://github.com/owengretzinger/constellagent) - macOS app giving each agent its own terminal, editor, and git worktree in a single window.
 - [diri](https://github.com/cristicretu/diri) - Native macOS app running Claude Code, Codex, Cursor, Gemini, and shells in parallel across git worktrees or remote hosts, with live status, session persistence across restarts, a menu-bar rollup, and an MCP server for agents to spawn others.
+- [DockTerm](https://github.com/munvard/dockterm) - Cross-platform terminal workspace that runs the real Claude Code in one pane per project, with a live sub-agent view, diff review, Git, and permission prompts that pop out of the Mac notch.
 - [dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app combining agent orchestration with automations, Kanban management, and MCP servers.
 - [Dray](https://github.com/monorepo-labs/dray) - Native desktop app wrapping Claude Code, Codex, fx, and pi in a chat UI, with one worktree per session plus diff, PR, and issue panels and an embedded browser.
 - [Emdash](https://github.com/generalaction/emdash) - Agentic development environment running parallel agents against any model provider.

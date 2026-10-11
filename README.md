@@ -293,6 +293,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [nanoclaw](https://github.com/nanocoai/nanoclaw) - Lightweight OpenClaw alternative running in containers, connecting to WhatsApp, Telegram, Slack, Discord, and Gmail.
 - [nullclaw](https://github.com/nullclaw/nullclaw) - Fully autonomous assistant infrastructure written in Zig.
 - [Octop](https://github.com/TencentCloud/Octop) - Self-hosted multi-user assistant with a built-in expert team operating in parallel, reachable from web, Telegram, Feishu, DingTalk, QQ, and WeCom.
+- [OpenAmer](https://github.com/openamer/openamer) - Windows-native personal agent runtime that drives the real desktop in the background (filesystem, terminal, GUI, browser via CDP), keeps persistent memory, runs scheduled jobs, and coordinates peer instances over a local A2A mesh.
 - [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant, on any OS and any platform.
 - [OpenHuman](https://github.com/tinyhumansai/openhuman) - Open-source personal agent harness: desktop app and Rust library with built-in memory, token compression, and instant tool search, efficient enough to run hundreds of agents on a $10 server.
 - [OpenInstinct](https://github.com/Merit-Systems/OpenInstinct) - iMessage assistant that drives a real browser to do chores, book tickets, and handle groceries, keeping your passwords and cards in an encrypted vault it unlocks per action. Self-hosted on your own Vercel, any model.

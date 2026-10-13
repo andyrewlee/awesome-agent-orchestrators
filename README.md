@@ -314,6 +314,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker with memory.
 - [Talorys](https://github.com/rociiu/talorys) - Personal AI assistant that runs entirely in your own Cloudflare account: chat, durable memory, tasks, notes, and scheduled routines, deployed with one command; single-user and free-tier friendly.
 - [taOS](https://github.com/jaylfc/taOS) - Self-hosted AI agent OS where memory, conversations, agents, and files live on hardware you own, offline by default with cloud by choice, including multi-framework group chat and a desktop GUI.
+- [Xiryn](https://github.com/SouravBeraAkaSpeed/xiryn) - Open-source personal agent on your own machine: each agent gets its own Linux desktop in Docker, with an encrypted vault, any model under your keys, and Telegram control.
 - [zclaw](https://github.com/tnm/zclaw) - Complete personal assistant in 888 KiB, running on an ESP32 with GPIO, cron, and custom tools.
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, fully autonomous assistant infrastructure in Rust, deployable anywhere.
 

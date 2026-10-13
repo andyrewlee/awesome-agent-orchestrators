@@ -123,6 +123,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [Reemoat](https://github.com/rends-east/reemoat) - Self-hosted remote control for any coding agent: run coding agents on your own machines and supervise them from anywhere, end-to-end encrypted.
 - [Roamgate](https://github.com/powerfooI/roamgate) - Browser and PWA client for Herdr that controls parallel terminals, monitors coding agents, and reviews files and diffs from desktop or mobile. Requires a running Herdr server. Codex, Claude Code, Kimi, Grok Build, Pi, and more.
 - [Runner](https://github.com/yicheng47/runner) - Native macOS and Windows app running CLI agents side by side in split panes, each keeping its own TUI in a real terminal, and putting them on one mission as a crew with a lead. Claude Code, Codex, Copilot CLI, pi.
+- [Solenta](https://github.com/currentbits/solenta) - Desktop app where every thread shares one local memory and the plan is your GitHub issues, with worktrees, Git review in the loop, and verify-gated completion. Claude Code, Codex, Cursor, Kimi, Grok, OpenCode.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS command center for worktree-per-agent development.
 - [Superagent](https://github.com/pungme/superagent-desktop) - macOS desktop app giving Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 - [superset](https://github.com/superset-sh/superset) - Code editor built around running many agents on your machine at once.

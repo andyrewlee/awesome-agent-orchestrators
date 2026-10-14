@@ -63,7 +63,6 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 
 The same parallel-sessions workflow as a desktop app or browser/mobile dashboard, with diff review and merge.
 
-- [agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE for fleets that plans the work, spawns the agents, then fixes CI failures and merge conflicts without being asked.
 - [agent-session-manager-desktop](https://github.com/izll/agent-session-manager-desktop) - Desktop GUI over tmux where each session holds agent and shell tabs with per-tab working directories; waiting agents raise a header counter you can answer without switching tabs, and ntfy push carries it to your phone. Linux, macOS, Windows. Claude Code, Codex, Gemini, Aider.
 - [agent-squid](https://github.com/agent-squid/squid) - Browser UI organized into named lanes (`#topic@agent`), with context shared across agents and a realtime quota gauge.
 - [AGX](https://github.com/ramarlina/agx) - Wake-work-sleep checkpointing keeps a persistent agent team on long objectives, with human gates between cycles.
@@ -112,6 +111,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [omg.dev](https://github.com/BennyKok/omg.dev) - Open-source parallel-agent harness: run coding agents on your own computer or a hosted one, controlled from a single web UI with a mobile client. Claude Code, Codex, Grok, Cursor, OpenCode, Copilot, Pi.
 - [OpenChamber](https://github.com/openchamber/openchamber) - Open-source workspace for running, supervising, and reviewing AI coding work across desktop, browser, editor, and mobile, with parallel model runs and per-run worktrees.
 - [Open Session](https://github.com/tellahq/opensession) - Self-hosted server driving coding sessions in git worktrees on your own box or in isolated sandboxes, with a web UI, Slack/Linear/Plain/GitHub intake, diff and PR review, and multiple Codex and Claude subscriptions.
+- [Orchestrator.inc](https://github.com/OrchestratorInc/agent-orchestrator) - Desktop workspace that runs and supervises teams of coding agents from planning to merge: project-aware orchestration splits work into workers with isolated workspaces, tracked on a live Kanban with PRs, CI, and review. Claude Code, Codex, and 25+ harnesses.
 - [Orca](https://github.com/stablyai/orca) - Agentic development environment for running a fleet on your own subscription, available on desktop and mobile.
 - [Paseo](https://github.com/getpaseo/paseo) - Self-hosted daemon running agents in parallel on your own machines, driven from desktop, iOS/Android, web, or CLI, with voice control, diff review, and no telemetry or forced log-ins. Claude Code, Codex, Copilot, OpenCode, Pi.
 - [Ouijit](https://github.com/ouijit/ouijit) - Kanban board and terminals wired together by lifecycle hooks, scripts, and a session-aware CLI, so a task runs by hand, on a script, or delegated to the agent. Per-task worktrees, optional VM sandboxing. Claude Code, Codex, Pi, OpenCode.

@@ -134,6 +134,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [tlbx](https://github.com/tlbx-ai/tlbx) - Self-hosted browser workspace holding persistent real PTY sessions on your own machines, reachable from any browser or phone.
 - [Tortie](https://github.com/gregce/tortie) - Native macOS agent multiplexer with familiar IDE features: all projects in one window, agents that survive restarts, and organized terminal sessions without tmux.
 - [Traycer](https://github.com/traycerai/traycer) - Bring-your-own-agent workspace running many sessions in parallel with context shared across models and providers, plus agent-to-agent messaging, shareable boards, and cross-device sync.
+- [UpComputer](https://github.com/krl-gr/upcomputer) - Desktop, web, and PWA app for task-based self-orchestration: task tags and statuses trigger agents that run on a schedule or from a webhook, in parallel or as a queue. Claude Code, Codex, Grok, OpenCode, Cursor, and more.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - One git worktree per agent, delivered as desktop, web, and CLI.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - RTS-style workspace for commanding coding agents.
 - [Vicoa](https://github.com/vicoa-ai/vicoa) - Agentic IDE and AI orchestrator for running a team of coding agents from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, Hermes.

@@ -271,6 +271,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [Open Multi-Agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript-native runtime where a coordinator turns a goal into a task DAG and a deterministic scheduler runs specialized agents, with approvals, traces, evaluation, checkpoints, and resume support.
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source agent operating system.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding agent at the process and socket boundary so model traffic, shell exit codes, per-turn file changes and MCP JSON-RPC share one timeline, then replays the run offline with the network off or forks it from a checkpoint onto a different model.
+- [orchestra-auto](https://github.com/whutlichao/orchestra-auto) - Orca-specific Agent Skills encoding supervised multi-agent gates (worktree isolation, ready≠turnStart, human escalation).
 - [ox](https://github.com/sageox/ox) - The team hivemind: persistent context recorded once and recalled across agents, machines, and teammates, as a Go CLI.
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Daemon, HTTP/SSE API, and TypeScript SDK for driving six coding agents inside E2B, Daytona, Modal, Cloudflare Containers, or Docker.
 - [skillfold](https://github.com/byronxlg/skillfold) - Declares skills in YAML and pins exact revisions in a lockfile so installs are reproducible across Claude Code and Codex.

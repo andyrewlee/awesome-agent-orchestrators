@@ -279,6 +279,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [ox](https://github.com/sageox/ox) - The team hivemind: persistent context recorded once and recalled across agents, machines, and teammates, as a Go CLI.
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Daemon, HTTP/SSE API, and TypeScript SDK for driving six coding agents inside E2B, Daytona, Modal, Cloudflare Containers, or Docker.
 - [skillfold](https://github.com/byronxlg/skillfold) - Declares skills in YAML and pins exact revisions in a lockfile so installs are reproducible across Claude Code and Codex.
+- [Speakeasy control plane](https://github.com/speakeasy-api/gram) - MCP gateway for Claude Code, Cursor, Codex, and custom agents, with identity-based tool access, per-action security policies, and audit logs.
 - [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Portable Markdown definitions that route a task to a chosen backend, model, effort level, and permission set.
 
 ## Personal Assistants

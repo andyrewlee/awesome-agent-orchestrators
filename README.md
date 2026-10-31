@@ -294,6 +294,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [skillfold](https://github.com/byronxlg/skillfold) - Declares skills in YAML and pins exact revisions in a lockfile so installs are reproducible across Claude Code and Codex.
 - [Speakeasy control plane](https://github.com/speakeasy-api/gram) - MCP gateway for Claude Code, Cursor, Codex, and custom agents, with identity-based tool access, per-action security policies, and audit logs.
 - [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Portable Markdown definitions that route a task to a chosen backend, model, effort level, and permission set.
+- [Vibestrate](https://github.com/guyshonshon/vibestrate) - Runs one task through a YAML flow of seated phases, giving every seat the same project rules, auto-derived codebase map, and running brief, while the reviewer starts a fresh process rather than inheriting the writer's session. Approval gates, a git worktree per run, and a local token and cost ledger. Claude Code, Codex, Gemini CLI, OpenCode, Aider, Cursor CLI, Amp, Goose, Crush, Qwen Code, Ollama.
 
 ## Personal Assistants
 

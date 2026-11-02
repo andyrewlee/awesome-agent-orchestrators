@@ -86,6 +86,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [clave](https://github.com/antasphere/clave) - Native macOS app with split and grid layouts, session groups, SSH remote sessions, and usage analytics for Claude Code.
 - [Cezar](https://github.com/open-mercato/cezar) - Open-source orchestrator and ADE for running Claude Code, Codex, OpenCode, Pi, and other coding agents in parallel — locally or 24/7 on your own server.
 - [clideck](https://github.com/rustykuntz/clideck) - Chat-app-style dashboard with autopilot routing between agents and full control from a phone. Claude Code, Codex, Gemini CLI, OpenCode.
+- [Cloudroom](https://github.com/davidondrej/cloudroom) - Desktop app for AI coding agents on your Mac or in the cloud: each thread gets its own sandbox and Git branch, running threads teleport between local and cloud, and the core is self-hostable.
 - [CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - Desktop and web workspace around the OpenCode CLI whose SideCars embed local tools like VS Code and terminals as tabs.
 - [collaborator](https://github.com/collabs-inc/collab-public) - Arranges terminals, editors, and files as tiles on an infinite pan-and-zoom canvas instead of tabs.
 - [constellagent](https://github.com/owengretzinger/constellagent) - macOS app giving each agent its own terminal, editor, and git worktree in a single window.

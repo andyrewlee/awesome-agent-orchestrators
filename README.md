@@ -294,6 +294,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding agent at the process and socket boundary so model traffic, shell exit codes, per-turn file changes and MCP JSON-RPC share one timeline, then replays the run offline with the network off or forks it from a checkpoint onto a different model.
 - [ox](https://github.com/sageox/ox) - The team hivemind: persistent context recorded once and recalled across agents, machines, and teammates, as a Go CLI.
 - [sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Daemon, HTTP/SSE API, and TypeScript SDK for driving six coding agents inside E2B, Daytona, Modal, Cloudflare Containers, or Docker.
+- [sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run().
 - [Scalekit](https://github.com/scalekit-inc/scalekit-sdk-python) - Integration layer that gives agents per-user OAuth and scoped tool access to 600+ connectors and 35,000+ tools, callable from LangChain, OpenAI Agents SDK, Claude, Hermes or any MCP client.
 - [skillfold](https://github.com/byronxlg/skillfold) - Declares skills in YAML and pins exact revisions in a lockfile so installs are reproducible across Claude Code and Codex.
 - [Speakeasy control plane](https://github.com/speakeasy-api/gram) - MCP gateway for Claude Code, Cursor, Codex, and custom agents, with identity-based tool access, per-action security policies, and audit logs.

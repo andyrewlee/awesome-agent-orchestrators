@@ -43,6 +43,7 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 - [Calyx](https://github.com/yuuichieguchi/Calyx) - Native macOS terminal built on libghostty with an approval inbox for permission prompts, a working/blocked/idle sidebar, and in-terminal diff review.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Runs each agent as a detached background session with its own worktree, so work continues after you close the pane. Claude Code, Codex, OpenCode, Amp.
 - [cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and per-agent notifications, built for keeping many concurrent sessions legible.
+- [Craig](https://github.com/hallsamuel90/craig) - Keyboard-driven TUI for running Claude Code, Codex, and Cursor in isolated Git worktrees, with diffs, pull requests, and checks.
 - [Cyclops](https://github.com/cyclops-team/cyclops) - Coordinates coding agents running in tmux through a durable mailbox with guarded terminal notifications, FIFO delivery per recipient, and fail-closed human-composer protection, with an optional workspace UI for overseeing the team. Codex CLI, Claude Code, Antigravity, Cursor Agent.
 - [DevThrottle](https://github.com/thefrederiksen/devthrottle) - Orchestration tool for command-line coding agents. MIT.
 - [dmux](https://github.com/standardagents/dmux) - Dev agent multiplexer pairing coding agents with git worktrees over tmux.

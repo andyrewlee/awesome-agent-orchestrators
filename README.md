@@ -114,7 +114,6 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [Harness by Autonomous](https://github.com/autonomous-ai/openharness) - Open-source desktop and mobile command center for supervising Claude Code, Codex, OpenCode, and other coding agents across machines.
 - [Helicon](https://github.com/HarjjotSinghh/helicon) - Unofficial desktop and web app, not affiliated with Meta, that puts threads from every project in one sidebar with inline diffs, approvals, cost tracking, and a VS Code and Cursor extension. Muse Code.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Human-in-the-loop control for coding agents on hard problems; the repo notes its code is now largely deprecated in favor of a rebuild.
-- [Ignite](https://github.com/ker0olos/ignite) - Desktop app built on pi that runs each conversation in its own git worktree with bash in an OS sandbox, hands tasks off to agents that come back as pull requests, and lets you draw on screenshots to show what's wrong. macOS, Linux, Windows. Claude and ChatGPT subscriptions, plus any provider pi supports.
 - [IM.codes](https://github.com/im4codes/imcodes) - Mobile and web control layer built for away-from-desk continuation, with terminal access, git views, localhost preview, and scheduled tasks. Claude Code, Codex, Gemini CLI.
 - [Intent](https://github.com/intent-hq/intent) - Desktop app for coordinating coding agents at scale: workspaces, notes, tasks, git, and terminals in one place, backed by a Rust daemon, with an iOS companion.
 - [intentic](https://github.com/intentic/intentic) - Browser and mobile workspace where every agent gets a persistent Docker sandbox on a machine you own plus a git worktree of its own, reached over an outbound-only Cloudflare tunnel, so runs keep going after you close the tab. Plan mode, per-hunk diff review, an environment Dockerfile the agent proposes and you approve, credential capabilities injected per turn, and schedule, webhook or event triggers. Claude Code, Codex, Grok, Kimi Code, Gemini. MIT.
@@ -195,7 +194,6 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [agent-kanban](https://github.com/saltbo/agent-kanban) - Leader-worker task board with cryptographic agent identity. Claude Code, Codex, Gemini CLI.
 - [agent-swarm](https://github.com/desplega-ai/agent-swarm) - Self-hosted AI company operating system where a lead agent delegates goals to workers in isolated containers, with persistent memory, schedules, and review gates. Claude Code, Codex, pi, OpenCode, Cursor, Amp, Grok, Devin, and ACP agents.
 - [AgentBridge](https://github.com/raysonmeng/agent-bridge) - Local MIT CLI that keeps Claude Code and Codex as live peers in one session for mid-turn review, task split, and quota-boundary handoff.
-- [agentsmesh](https://github.com/AgentsMesh/AgentsMesh) - Remote AI workstations with PTY sandboxes and worktree isolation, coordinating across channels and pod bindings. Claude Code, Codex, Gemini CLI, Aider, OpenCode.
 - [Agon](https://github.com/AutoResearch-Factory/Agon) - Orchestrates scientist, coder, and auditor loops from research topic through proposal to experiment.
 - [Agora](https://github.com/CaffeinatedSoftwareLLC/agora) - Self-hosted chat where coding agents on different machines coordinate in shared channels and threads, with turn-taking, file reservations, and handoffs, while humans watch and steer from a web UI. Claude Code, Codex, and any MCP client.
 - [Alook](https://github.com/alookai/alook) - Shared rooms where people and agents collaborate: local coding agents get persistent identities with handles, inboxes, and memberships, while agents keep running on your own machine.
@@ -238,7 +236,6 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 The "keep running until done" pattern — a single goal driven through a retry-until-verified loop.
 
 - [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Keeps no model in the coordination loop, so orchestration costs zero tokens. Verifies with tests and auto-commits across 40+ CLI agents.
-- [Dex](https://github.com/francescoalemanno/dex) - Human-gated planning, multi-reviewer code review, and dead-end-aware research loops, shipped as cross-platform binaries for 7 CLI backends.
 - [fractal](https://github.com/plasma-ai/fractal) - Loops that recursively delegate separable subtasks to child agents, bounded by configurable depth, cost, and time limits.
 - [future-os](https://github.com/futuregene/future-os) - One agent everywhere (terminal, desktop, mobile, CLI, IM bots) with a built-in loop control plane: durable goals, event-sourced state, and verification gates for 24h+ runs.
 - [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - Long-running computer-use harness with fresh-context execution, independent auditing, and verified checkpoints across desktop apps and CLI workflows. Claude Code, Codex, OpenCode, DeepSeek Harness.
@@ -378,12 +375,15 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 A watchlist of projects without a push in the last few months (checked 2026-07-28). They stay here until they're active again, then move back up.
 
 - [1code](https://github.com/21st-dev/1code) - Orchestration layer for Claude Code and Codex. _(last commit 2026-03; archived)_
+- [agentsmesh](https://github.com/AgentsMesh/AgentsMesh) - Remote AI workstations with PTY sandboxes and worktree isolation, coordinating across channels and pod bindings. Claude Code, Codex, Gemini CLI, Aider, OpenCode.
 - [antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command. _(last commit 2026-02)_
 - [babyagi3](https://github.com/yoheinakajima/babyagi3) - A minimal AI agent you configure once, then run through natural language. _(last commit 2026-03)_
 - [cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it. _(last commit 2026-03)_
 - [clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents. _(last commit 2026-02)_
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Orchestrate multiple Codex agents across local workspaces. _(last commit 2026-03)_
+- [Dex](https://github.com/francescoalemanno/dex) - Human-gated planning, multi-reviewer code review, and dead-end-aware research loops, shipped as cross-platform binaries for 7 CLI backends.
 - [gnap](https://github.com/farol-team/gnap) - Git-native agent protocol coordinating agents through a shared repo as a task board, with no orchestrator process. _(last commit 2026-03)_
+- [Ignite](https://github.com/ker0olos/ignite) - Desktop app built on pi that runs each conversation in its own git worktree with bash in an OS sandbox, hands tasks off to agents that come back as pull requests, and lets you draw on screenshots to show what's wrong. macOS, Linux, Windows. Claude and ChatGPT subscriptions, plus any provider pi supports.
 - [lettabot](https://github.com/letta-ai/lettabot) - Personal assistant that remembers everything. _(last commit 2026-05; archived, replaced by Letta Code)_
 - [mercury](https://github.com/Michaelliv/mercury) - Personal AI assistant that lives where you chat. _(last commit 2026-03; archived)_
 - [opengoat](https://github.com/marian2js/opengoat) - Build organizations of OpenClaw agents coordinating across Codex, Claude Code, Cursor, and OpenCode. _(last commit 2026-04)_

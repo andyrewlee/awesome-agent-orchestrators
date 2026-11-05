@@ -130,6 +130,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [Open Walnut](https://github.com/EvanZhang008/open-walnut) - Self-hosted web UI for coding sessions on your laptop and remote dev boxes, with a daemon on each host that keeps sessions running when SSH drops, a per-session diff of every file changed, and tasks and notes alongside. Claude Code.
 - [Orchestrator.inc](https://github.com/OrchestratorInc/agent-orchestrator) - Desktop workspace that runs and supervises teams of coding agents from planning to merge: project-aware orchestration splits work into workers with isolated workspaces, tracked on a live Kanban with PRs, CI, and review, plus iPhone and Android apps. Claude Code, Codex, and 30+ harnesses.
 - [Orca](https://github.com/stablyai/orca) - Agentic development environment for running a fleet on your own subscription, available on desktop and mobile.
+- [Paradev](https://github.com/ParadevAI/Paradev) - Code editor built around running many agents on your machine at once.
 - [Paseo](https://github.com/getpaseo/paseo) - Self-hosted daemon running agents in parallel on your own machines, driven from desktop, iOS/Android, web, or CLI, with voice control, diff review, and no telemetry or forced log-ins. Claude Code, Codex, Copilot, OpenCode, Pi.
 - [Ouijit](https://github.com/ouijit/ouijit) - Kanban board and terminals wired together by lifecycle hooks, scripts, and a session-aware CLI, so a task runs by hand, on a script, or delegated to the agent. Per-task worktrees, optional VM sandboxing. Claude Code, Codex, Pi, OpenCode.
 - [parallel-code](https://github.com/johannesjo/parallel-code) - Desktop app running Claude Code, Codex, and Gemini CLI side by side in isolated worktrees, with a built-in diff viewer and one-click merge.
@@ -146,7 +147,6 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [Solenta](https://github.com/currentbits/solenta) - Desktop app where every thread shares one local memory and the plan is your GitHub issues, with worktrees, Git review in the loop, and verify-gated completion. Claude Code, Codex, Cursor, Kimi, Grok, OpenCode.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS command center for worktree-per-agent development.
 - [Superagent](https://github.com/pungme/superagent-desktop) - macOS desktop app giving Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
-- [superset](https://github.com/superset-sh/superset) - Code editor built around running many agents on your machine at once.
 - [synara](https://github.com/Emanuele-web04/synara) - GUI desktop workspace for running and managing agents across local projects.
 - [t3code](https://github.com/pingdotgg/t3code) - Harness control surface available as web, mobile, and desktop app. Claude Code, Codex, Cursor, Grok Build, OpenCode.
 - [takopi](https://github.com/banteg/takopi) - Telegram bridge that puts Codex, Claude Code, OpenCode, and Pi sessions in a chat thread.

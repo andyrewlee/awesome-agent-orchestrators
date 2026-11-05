@@ -67,6 +67,7 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 
 The same parallel-sessions workflow as a desktop app or browser/mobile dashboard, with diff review and merge.
 
+- [ADE](https://github.com/arul28/ADE) - Local-first desktop app for orchestrating parallel AI coding agents, with isolated git worktrees, automation rules, and built-in agent tools, synced across desktop, web, and iPhone. AGPL.
 - [Agent Console](https://github.com/cyl-castillo/agent-console) - Terminal-first Tauri desktop app that runs the real agent CLIs in PTYs with per-turn snapshots, diff review, and rewind, and witnesses every prompt, approval, and tool result into a hash-chained ledger exportable as a signed proof packet or an IETF audit trail anyone verifies offline; multi-engine rooms, push-to-talk voice with local TTS, and an MCP server so agents can drive the console. Linux, macOS, Windows. Claude Code, Codex.
 - [agent-session-manager-desktop](https://github.com/izll/agent-session-manager-desktop) - Desktop GUI over tmux where each session holds agent and shell tabs with per-tab working directories; waiting agents raise a header counter you can answer without switching tabs, and ntfy push carries it to your phone. Linux, macOS, Windows. Claude Code, Codex, Gemini, Aider.
 - [agent-squid](https://github.com/agent-squid/squid) - Browser UI organized into named lanes (`#topic@agent`), with context shared across agents and a realtime quota gauge.

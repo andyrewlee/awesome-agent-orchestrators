@@ -90,6 +90,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [Berd](https://github.com/block/berd) - Block's open-source desktop app for working with AI agents: project chats with per-folder worktree behavior over the Goose backend, with agents, skills, connections, and agent sharing in one place.
 - [Cate](https://github.com/0-AI-UG/cate) - Open-source canvas IDE for agentic coding: editor, terminal, and browser panels in one infinite zoomable spatial workspace. MIT.
 - [Claude Command Center (CCC)](https://github.com/amirfish1/claude-command-center) - Local dashboard for spawning, monitoring, and resuming sessions across Claude Code, Codex, Cursor, Antigravity, and Kilo Code.
+- [Claudette](https://github.com/utensils/claudette) - Companion app for Claude Code that runs parallel agents in isolated git worktrees, with plan approvals, checkpoints, workspace forking, and a CLI a main agent can use to fan out work. MIT.
 - [clave](https://github.com/antasphere/clave) - Native macOS app with split and grid layouts, session groups, SSH remote sessions, and usage analytics for Claude Code.
 - [Cezar](https://github.com/open-mercato/cezar) - Open-source orchestrator and ADE for running Claude Code, Codex, OpenCode, Pi, and other coding agents in parallel — locally or 24/7 on your own server.
 - [clideck](https://github.com/rustykuntz/clideck) - Chat-app-style dashboard with autopilot routing between agents and full control from a phone. Claude Code, Codex, Gemini CLI, OpenCode.

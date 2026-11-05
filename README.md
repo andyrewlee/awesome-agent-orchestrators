@@ -83,6 +83,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 - [automaker](https://github.com/AutoMaker-Org/automaker) - Describe features on a Kanban board and agents implement them in isolated worktrees, running tests and committing as they go.
 - [bb](https://github.com/get-bb/bb) - Self-controlling agentic IDE that orchestrates multiple coding agents in live threads you can follow, steer, or hand off, driven from a desktop app, web app, CLI, or HTTP API.
 - [Berd](https://github.com/block/berd) - Block's open-source desktop app for working with AI agents: project chats with per-folder worktree behavior over the Goose backend, with agents, skills, connections, and agent sharing in one place.
+- [Cate](https://github.com/0-AI-UG/cate) - Open-source canvas IDE for agentic coding: editor, terminal, and browser panels in one infinite zoomable spatial workspace. MIT.
 - [Claude Command Center (CCC)](https://github.com/amirfish1/claude-command-center) - Local dashboard for spawning, monitoring, and resuming sessions across Claude Code, Codex, Cursor, Antigravity, and Kilo Code.
 - [clave](https://github.com/antasphere/clave) - Native macOS app with split and grid layouts, session groups, SSH remote sessions, and usage analytics for Claude Code.
 - [Cezar](https://github.com/open-mercato/cezar) - Open-source orchestrator and ADE for running Claude Code, Codex, OpenCode, Pi, and other coding agents in parallel — locally or 24/7 on your own server.

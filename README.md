@@ -239,6 +239,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 
 The "keep running until done" pattern — a single goal driven through a retry-until-verified loop.
 
+- [AgenC Core](https://github.com/tetsuo-ai/agenc-core) - Open source agent harness whose Goal mode drives one goal through implementation, testing and an independent review, with any model provider or a local model.
 - [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Keeps no model in the coordination loop, so orchestration costs zero tokens. Verifies with tests and auto-commits across 40+ CLI agents.
 - [fractal](https://github.com/plasma-ai/fractal) - Loops that recursively delegate separable subtasks to child agents, bounded by configurable depth, cost, and time limits.
 - [future-os](https://github.com/futuregene/future-os) - One agent everywhere (terminal, desktop, mobile, CLI, IM bots) with a built-in loop control plane: durable goals, event-sourced state, and verification gates for 24h+ runs.

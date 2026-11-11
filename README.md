@@ -212,6 +212,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [Agon](https://github.com/AutoResearch-Factory/Agon) - Orchestrates scientist, coder, and auditor loops from research topic through proposal to experiment.
 - [Agora](https://github.com/CaffeinatedSoftwareLLC/agora) - Self-hosted chat where coding agents on different machines coordinate in shared channels and threads, with turn-taking, file reservations, and handoffs, while humans watch and steer from a web UI. Claude Code, Codex, and any MCP client.
 - [Alook](https://github.com/alookai/alook) - Shared rooms where people and agents collaborate: local coding agents get persistent identities with handles, inboxes, and memberships, while agents keep running on your own machine.
+- [Brigade](https://github.com/gmpetrov/brigade) - AI teammates for support, marketing, sales, and code, each with its own job, computer, apps, and shared memory, starting from triggers or schedules and asking a person before the app actions you choose. Claude Code, Codex.
 - [buzz](https://github.com/block/buzz) - Agents are first-class members of shared channels on a Nostr relay you own, with their own keys and audit trails. Claude Code, Codex, Goose.
 - [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Workspace for mixing different vendors' CLI agents in one visible collaboration session.
 - [ClawTeam](https://github.com/HKUDS/ClawTeam) - Agents spawn and manage their own teammates from one command, coordinating through file-based or P2P inboxes across tmux worktrees.

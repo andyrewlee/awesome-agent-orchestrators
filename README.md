@@ -327,6 +327,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [guild](https://github.com/mathomhaus/guild) - Shared context, memory, and task coordination as a single Go binary over local SQLite with hybrid keyword and semantic search.
 - [handoff](https://github.com/dazuiba/handoff) - Delegates a task to DeepSeek, Codex, or Claude from inside your current Claude Code or Codex session, returning the result automatically.
 - [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for tool-using LLM agents and OpenCode workflows, with sub-agent orchestration, MCP integration, approval checkpoints, and execution traces.
+- [House Party Protocol](https://github.com/rusharlabs/house-party-protocol) - Coordinates Claude Code and Codex CLI teams through spec-driven waves, parallel lanes, independent-family review, and artifact-bound human approvals.
 - [kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted kanban for humans and agents: a browser board and an MCP server in one 4 MB binary, so you and your coding agents work on the same tasks and agents move cards while you watch.
 - [LazyMind](https://github.com/LazyAGI/LazyMind) - Self-hosted Skill runtime for Codex and DeepSeek Harness, with persisted workflow state, review checkpoints, and artifacts.
 - [LionClaw](https://github.com/moshthepitt/lionclaw) - Local control plane running coding agents as durable, auditable workers with explicit state, skills, and checkpoints.

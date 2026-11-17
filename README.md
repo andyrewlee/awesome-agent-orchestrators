@@ -251,6 +251,7 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [shire](https://github.com/victor36max/shire) - Persistent team workspaces with inter-agent mailboxes and a shared drive. Claude Code, OpenCode, Pi.
 - [Sno Station](https://github.com/sno-ai/sno-station) - Local runtime where agents share one encrypted memory and a mailbox, hand a task to another agent when one hits its usage limit, and review each other's work across vendors. Codex, Claude Code, Cursor, Hermes, OpenClaw.
 - [squad](https://github.com/bradygaster/squad) - Human-led AI agent teams for any project built on GitHub Copilot: repo-native specialist agents, coordinator routing, and parallel work, with persistent memory across sessions.
+- [Switch](https://github.com/sandbox-quantum/switch) - Self-hosted server and desktop console that run coding agents as members of Slack, Microsoft Teams, Discord, Telegram and Mattermost channels, where people and several agents work in one thread with shared context. Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Goose, Kiro, Qwen Code and 7 more. Source-available under Apache-2.0 with Commons Clause.
 - [tutti](https://github.com/nutthouse/tutti) - Config-driven workflows passing typed artifacts between agents, each in its own worktree.
 
 ## Autonomous Loop Runners

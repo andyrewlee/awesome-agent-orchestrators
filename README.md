@@ -42,6 +42,7 @@ Run and supervise several agent sessions side by side from a terminal — tmux p
 - [amux](https://github.com/andyrewlee/amux) - Minimal TUI for spawning parallel coding agents in git worktrees.
 - [amux (mixpeek)](https://github.com/mixpeek/amux) - Web dashboard plus iPhone, iPad, and Mac apps for running many agents in parallel in tmux, with a shared task board, agent-to-agent messages, and schedules. Claude Code, Codex, Gemini CLI.
 - [Calyx](https://github.com/yuuichieguchi/Calyx) - Native macOS terminal built on libghostty with an approval inbox for permission prompts, a working/blocked/idle sidebar, and in-terminal diff review.
+- [canopy](https://github.com/UniverLab/harness-canopy) - Rust TUI that runs parallel agent sessions and drives specs through graphs of agent nodes with reviewers and quality gates, with shared memory across sessions. Claude Code, Gemini CLI, OpenCode, Kiro, Copilot, Devin and more.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Runs each agent as a detached background session with its own worktree, so work continues after you close the pane. Claude Code, Codex, OpenCode, Amp.
 - [cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and per-agent notifications, built for keeping many concurrent sessions legible.
 - [Craig](https://github.com/hallsamuel90/craig) - Keyboard-driven TUI for running Claude Code, Codex, and Cursor in isolated Git worktrees, with diffs, pull requests, and checks.

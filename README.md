@@ -389,6 +389,7 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 - [lorca](https://github.com/egoist/lorca) - E2E-encrypted personal agent chat: create bots, talk 1:1 or in group chats, and let them hand work to each other. Rust CLI, native macOS client, and phone apps.
 - [lucinate](https://github.com/lucinate-ai/lucinate) - Terminal-native chat client for OpenClaw, Hermes, Ollama, and OpenAI-compatible providers, with cron management and session browsing.
 - [MetaClaw](https://github.com/aiming-lab/MetaClaw) - Assistant that learns and evolves from conversation alone.
+- [MyAgents](https://github.com/hAcKlyc/MyAgents) - Local-first macOS and Windows workbench for Claude Agent SDK, Codex, and DeepSeek Harness, with per-agent workspaces, scheduled tasks, and task handoffs across your own online devices.
 - [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight self-hosted assistant in Python with WebUI, tools, memory, MCP, and multi-agent workflows.
 - [nanoclaw](https://github.com/nanocoai/nanoclaw) - Lightweight OpenClaw alternative running in containers, connecting to WhatsApp, Telegram, Slack, Discord, and Gmail.
 - [nullclaw](https://github.com/nullclaw/nullclaw) - Fully autonomous assistant infrastructure written in Zig.

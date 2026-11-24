@@ -244,7 +244,6 @@ Systems where multiple specialized agents actively coordinate, communicate, and 
 - [OmegaStar](https://github.com/itsfutsy/OmegaStar) - Desktop app that runs Claude Code agents as a team of employees, with roles, an org chart, schedules and one Inbox for decisions.
 - [OpenRig](https://github.com/mvschwarz/openrig) - YAML-defined agent team with a lead agent that runs Claude Code and Codex together as one persistent system in tmux. npm CLI.
 - [openswarm](https://github.com/openswarm-ai/openswarm) - Local mission-control center for launching, monitoring, approving, and coordinating multiple AI agents in parallel.
-- [orc](https://github.com/spencermarx/orc) - Lightweight framework that piggybacks your existing CLI setup for planning, task decomposition, worktrees, and review.
 - [ORCH](https://github.com/oxgeneral/ORCH) - CLI runtime managing agents as typed teams with an explicit state machine and goals. Claude Code, Codex, Cursor.
 - [Orkas](https://github.com/Orkas-AI/Orkas) - A commander agent decomposes goals and dispatches specialists with isolated skills and memory. Claude Code, Codex, OpenCode, OpenClaw, Hermes.
 - [OtoDock](https://github.com/OtoDock/oto-dock) - Self-hosted "company OS" where agents work in departments, delegate to each other, and keep working unwatched on your Anthropic/OpenAI subscriptions — company map, per-agent dashboards, artifacts, meetings, and terminals. Source-available under FSL-1.1.
@@ -435,9 +434,11 @@ A watchlist of projects without a push in the last few months (checked 2026-07-2
 - [lettabot](https://github.com/letta-ai/lettabot) - Personal assistant that remembers everything. _(last commit 2026-05; archived, replaced by Letta Code)_
 - [mercury](https://github.com/Michaelliv/mercury) - Personal AI assistant that lives where you chat. _(last commit 2026-03; archived)_
 - [opengoat](https://github.com/marian2js/opengoat) - Build organizations of OpenClaw agents coordinating across Codex, Claude Code, Cursor, and OpenCode. _(last commit 2026-04)_
+- [orc](https://github.com/spencermarx/orc) - Lightweight framework that piggybacks your existing CLI setup for planning, task decomposition, worktrees, and review.
 - [ralphy](https://github.com/michaelshimeles/ralphy) - Bash script that loops Claude Code, Codex, OpenCode, Cursor, Qwen, or Droid until the task is done. _(last commit 2026-02)_
 - [subtask](https://github.com/zippoxer/subtask) - Claude Skill that runs your tasks through subagents in git worktrees. _(last commit 2026-04)_
 - [swarm-protocol](https://github.com/phuryn/swarm-protocol) - Headless coordination over MCP: claim work, detect file conflicts, heartbeat, and hand off across sessions. _(last commit 2026-03)_
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents. _(last commit 2026-04)_
 - [wit](https://github.com/amaar-mc/wit) - Locks individual functions rather than files via Tree-sitter, warning agents of conflicts before they write. _(last commit 2026-03)_
 - [wreckit](https://github.com/mikehostetler/wreckit) - Run the Ralph Wiggum loop over your roadmap. _(last commit 2026-04)_
+

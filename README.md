@@ -366,6 +366,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [Temporality](https://github.com/RuslanGabbasov/temporality) - Open-source, self-hosted runtime and control plane for agents built on its Agent Kernel, with Temporal-backed durable workflows, sandboxed tool execution, human approvals, execution traces, and reusable knowledge and skills.
 - [Unified AI System](https://github.com/happy520ai/unified-ai-system) - Self-hosted gateway and agent control plane that puts prompt enhancement, virtual-key budgets, response caching and a hash-chained audit trail in front of OpenAI-compatible, Anthropic and Gemini traffic, and re-exposes governed tools over MCP to Codex, Cursor and Cline.
 
+- [Unreal MCP](https://github.com/ChiR24/Unreal_mcp) - TypeScript and C++ MCP server with a native Automation Bridge plugin that lets Claude Code, Cursor, VS Code and other clients control Unreal Engine.
 ## Personal Assistants
 
 Always-on agents you reach over chat or a desktop app. They remember across sessions, run on their own schedule, and hand work off to tools and other agents — coding agents included, though the work isn't limited to code.

@@ -365,6 +365,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 - [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Portable Markdown definitions that route a task to a chosen backend, model, effort level, and permission set.
 - [Temporality](https://github.com/RuslanGabbasov/temporality) - Open-source, self-hosted runtime and control plane for agents built on its Agent Kernel, with Temporal-backed durable workflows, sandboxed tool execution, human approvals, execution traces, and reusable knowledge and skills.
 - [Unified AI System](https://github.com/happy520ai/unified-ai-system) - Self-hosted gateway and agent control plane that puts prompt enhancement, virtual-key budgets, response caching and a hash-chained audit trail in front of OpenAI-compatible, Anthropic and Gemini traffic, and re-exposes governed tools over MCP to Codex, Cursor and Cline.
+- [Unity MCP](https://github.com/CoplayDev/unity-mcp) - Unity Editor bridge that lets Claude, Codex, VS Code and other MCP clients manage assets, scenes, scripts, tests and game-development workflows.
 
 ## Personal Assistants
 

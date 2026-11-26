@@ -372,6 +372,7 @@ Control planes, coordination protocols, harness adapters, and runtimes — the l
 
 Always-on agents you reach over chat or a desktop app. They remember across sessions, run on their own schedule, and hand work off to tools and other agents — coding agents included, though the work isn't limited to code.
 
+- [AppuBot](https://github.com/sarthakguptadev/AppuBot) - Team of AI bots in a desktop app for macOS, Windows, and Linux, each with its own job, memory, and skills, with team rooms where bots hand work to each other, scheduled routines, and Telegram. Runs Claude Code, Codex, GitHub Copilot, Cursor, Grok, or OpenCode over ACP on your own account (Apache-2.0).
 - [assistant](https://github.com/kcosr/assistant) - Panel-based assistant whose plugins share one workspace of notes, lists, and objects.
 - [automata](https://github.com/sentientwave/automata) - Matrix-native workspace where Temporal-backed durable workflows survive restarts and keep long tasks moving.
 - [Borg](https://github.com/adelphidata/borg) - Security-first assistant in Rust built to run unattended, with a sandbox on by default, self-healing, long-term memory, schedules, and sub-agents, reachable over Telegram, Slack, Discord, Signal, WhatsApp, iMessage, a TUI, or a desktop app.

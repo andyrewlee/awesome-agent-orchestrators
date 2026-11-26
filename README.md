@@ -214,6 +214,7 @@ The same parallel-sessions workflow as a desktop app or browser/mobile dashboard
 Systems where multiple specialized agents actively coordinate, communicate, and delegate toward a shared goal.
 
 - [5dive](https://github.com/5dive-ai/5dive) - Named agents on a shared org chart and backlog hand work to each other and escalate to a human over Telegram. Claude Code, Codex, Grok, Antigravity, OpenCode.
+- [AccordAgents](https://github.com/juliakrivchikova/AccordAgents-desktop-app) - Desktop app for macOS and Windows where agents share one project chat, ask each other for work, and sign one version of an important decision. Claude Code, Codex, Antigravity, plus GLM, Kimi, MiniMax, and DeepSeek with your own key.
 - [Agent Teams](https://github.com/777genius/agent-teams-ai) - Desktop app where you give high-level commands to autonomous coding-agent teams across Claude Code, Codex, OpenCode, Cursor, Grok, GitHub Copilot, Kiro, Z.AI, MiniMax, Kimi, 200+ models, and 75+ LLM providers. Agents coordinate through inter-agent messaging, Kanban tasks, and built-in code review.
 - [agent-kanban](https://github.com/saltbo/agent-kanban) - Leader-worker task board with cryptographic agent identity. Claude Code, Codex, Gemini CLI.
 - [agent-swarm](https://github.com/desplega-ai/agent-swarm) - Self-hosted AI company operating system where a lead agent delegates goals to workers in isolated containers, with persistent memory, schedules, and review gates. Claude Code, Codex, pi, OpenCode, Cursor, Amp, Grok, Devin, and ACP agents.
